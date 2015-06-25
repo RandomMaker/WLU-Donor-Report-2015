@@ -1,0 +1,81 @@
+/* FONTS */
+
+@font-face {
+  font-family: 'Calluna Sans';
+  src:     url('../fonts/CallunaSansRegular.eot');
+  src:  url('../fonts/CallunaSansRegular.eot?#iefix') format('embedded-opentype'),
+  		  url('../fonts/CallunaSansRegular.woff') format('woff'),
+	 	    url('../fonts/CallunaSansRegular.ttf') format('truetype');
+  font-style: normal;
+  -moz-font-feature-settings: "lnum"; 
+  -ms-font-feature-settings: "lnum"; 
+  -webkit-font-feature-settings: "lnum"; 
+  -o-font-feature-settings: "lnum"; 
+  font-feature-settings: "lnum";
+}
+@font-face {
+  font-family: 'Calluna Sans Two';
+  src: 	url('../fonts/CallunaSansRegular2.eot');
+  src:  url('../fonts/CallunaSansRegular2.eot?#iefix') format('embedded-opentype'),
+  		  url('../fonts/CallunaSansRegular2.woff') format('woff'),
+	   	  url('../fonts/CallunaSansRegular2.ttf') format('truetype');
+  font-style: normal;
+  -moz-font-feature-settings: "lnum"; 
+  -ms-font-feature-settings: "lnum"; 
+  -webkit-font-feature-settings: "lnum"; 
+  -o-font-feature-settings: "lnum"; 
+  font-feature-settings: "lnum";
+}
+@font-face {
+  font-family: 'Calluna Sans Three';
+  src: 	url('../fonts/CallunaSansRegular3.eot');
+  src:  url('../fonts/CallunaSansRegular3.eot?#iefix') format('embedded-opentype'),
+  		  url('../fonts/CallunaSansRegular3.woff') format('woff'),
+	 	    url('../fonts/CallunaSansRegular3.ttf') format('truetype');
+  font-style: normal;
+  -moz-font-feature-settings: "lnum"; 
+  -ms-font-feature-settings: "lnum"; 
+  -webkit-font-feature-settings: "lnum"; 
+  -o-font-feature-settings: "lnum"; 
+  font-feature-settings: "lnum";
+}
+
+/* GENERAL STYLING */
+
+body {
+	font-family: "Calluna Sans", "Calluna Sans Two", "Calluna Sans Three";
+}
+
+/* NAVBAR / MENU STYLING */
+
+.logo {
+	padding-top: 15px;
+	max-width: 180px;
+}
+.navbar {
+	min-height:115px !important;
+}
+.navbar-nav > li > a, .navbar-brand {
+    height: 115px;
+    line-height: 85px;
+}
+.navbar-default .navbar-nav > li >a {
+	color: #757575;
+	font-size: 14px;
+	font-weight: 600;
+}
+.give-button {
+	color: #3c2886;
+	background-color: #FFFFFF;
+	border: 2px solid #3c2886;
+}
+.give-button:hover {
+	color: #FFFFFF;
+	background-color: #3c2886;
+	border: 2px solid #3c2886;
+	transition: all 0.5s ease 0s;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	-ms-transition: all 0.5s ease 0s;
+}
