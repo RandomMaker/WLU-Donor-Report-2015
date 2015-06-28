@@ -1,0 +1,121 @@
+/* GENERAL STYLING */
+body {
+  font-family: "calluna-sans",sans-serif;
+}
+
+
+/* NAVBAR / MENU STYLING */
+
+.logo {
+	padding-top: 15px;
+	max-width: 180px;
+}
+.navbar {
+	min-height:115px !important;
+  margin-bottom: 0px !important;
+  background: #FFFFFF;
+  border: none;
+  z-index: 250;
+}
+.navbar-nav > li > a, .navbar-brand {
+    height: 115px;
+    line-height: 85px;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #757575;
+	font-size: 14px;
+	font-weight: 600;
+}
+.give-button {
+	color: #3c2886;
+	background-color: #FFFFFF;
+	border: 2px solid #3c2886;
+  padding: 8px 18px 8px 18px;
+}
+.give-button:hover {
+	color: #FFFFFF;
+	background-color: #3c2886;
+	border: 2px solid #3c2886;
+	transition: all 0.5s ease 0s;
+	-webkit-transition: all 0.5s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	-ms-transition: all 0.5s ease 0s;
+}
+
+@media (max-width: 992px){
+  .navbar .container {
+    width: 780px;
+  }
+}
+@media (max-width: 768px){
+  .navbar .container {
+    width: 100%;
+  }
+  .navbar-toggle {
+    margin-top: 40px;
+  }
+  .navbar-nav {
+    margin: 0px 0px 0px 0px;
+  }
+  .navbar-right {
+    min-height: 285px;
+  }
+  .navbar-nav > li > a {
+    padding-bottom: 25px;
+    height: 50px;
+    line-height: 50px;
+  }
+}
+
+/* HEADER THANK YOU */
+
+.thank-you {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background: #000000;
+  height: 525px;
+  text-align: center;
+}
+.thank-you-message {
+  max-width: 725px;
+  margin: 150px auto 0 auto;
+}
+.thank-you-message h1 {
+  color: #FFFFFF;
+  font-size: 45px;
+}
+.thank-you-message p {
+  color: #e7e7e9;
+  font-size: 20px;
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+/* AREAS OF IMPACT */
+
+#impact-title {
+  background-color: #3c2886;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+#impact-title h2 {
+  font-size: 36px;
+  margin: 0;
+}
+#impact-title h3 {
+  font-size: 20px;
+  font-family: "proxima-nova", sans-serif;
+  margin: 0;
+  padding-top: 5px;
+}
+.yellow-divider {
+  width: 75px;
+  border-bottom: 3px solid #fcb814;
+  margin: auto;
+}
