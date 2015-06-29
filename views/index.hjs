@@ -32,7 +32,7 @@
 					<span class="icon-bar"></span>
 					</button>
 					<a class="navbar-brand" href="#">
-					<img class="logo img-responsive" src="images/laurier_purple_logo.png" alt="Wilfrid Laurier University Logo">
+					<img class="logo img-responsive" src="images/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo">
 					</a>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
@@ -55,8 +55,8 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="thank-you-message">
-							<h1>Thank you for your support!</h1>
-							<p>Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.</p>
+							<h1 class="fade-in">Thank you for your support!</h1>
+							<p class="fade-in delay-one">Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.</p>
 						</div>
 					</div>
 				</div>
@@ -68,9 +68,28 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h2>Areas of Impact</h2>
-						<h3>Vivamus fermentum aliquam diam ut luctus.</h3>
+						<p>Vivamus fermentum aliquam diam ut luctus.</p>
 						<div class="yellow-divider">
 							&nbsp;
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="impact-areas">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="impact-story">
+							
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="impact-story">
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="impact-story">
 						</div>
 					</div>
 				</div>
