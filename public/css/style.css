@@ -55,6 +55,39 @@ body {
   border-bottom: 3px solid #3c2886;
   margin: auto;
 }
+.red-divider {
+  width: 75px;
+  border-bottom: 3px solid #ef4639;
+  margin: auto;
+}
+.explore-button {
+  color: #ffffff;
+  background-color: #3c2886;
+  border: 2px solid #3c2886;
+  padding: 8px 18px 8px 18px;
+  margin: 0px 0px 30px 25px;
+  position: absolute;
+  bottom: 0;
+}
+.explore-button:hover {
+  color: #3c2886;
+  background-color: #FFFFFF;
+  border: 2px solid #3c2886;
+  transition: all 0.5s ease 0s;
+  -webkit-transition: all 0.5s ease 0s;
+  -moz-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
+}
+.spacer {
+  height: 40px;
+}
+
+@media (max-width: 992px){
+  .spacer {
+    display: none;
+  }
+}
 
 /* NAVBAR / MENU STYLING */
 
@@ -167,6 +200,10 @@ body {
   margin: auto;
   overflow: hidden;
   position: relative;
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border: 0px solid #000000;
 }
 .impact-story h4 {
   font-size: 16px;
@@ -180,25 +217,6 @@ body {
   line-height: 30px;
   margin: 0;
   padding: 15px 25px 0px 25px;
-}
-.readmore-button {
-  color: #ffffff;
-  background-color: #3c2886;
-  border: 2px solid #3c2886;
-  padding: 8px 18px 8px 18px;
-  margin: 0px 0px 30px 25px;
-  position: absolute;
-  bottom: 0;
-}
-.readmore-button:hover {
-  color: #3c2886;
-  background-color: #FFFFFF;
-  border: 2px solid #3c2886;
-  transition: all 0.5s ease 0s;
-  -webkit-transition: all 0.5s ease 0s;
-  -moz-transition: all 0.5s ease 0s;
-  -o-transition: all 0.5s ease 0s;
-  -ms-transition: all 0.5s ease 0s;
 }
 
 /* Background Images */
@@ -237,13 +255,11 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
-.spacer {
-  height: 40px;
-}
 
 @media (max-width: 992px){
   .impact-story {
     max-width: none;
+    margin-bottom: 25px;
   }
   .spacer {
     display: none;
@@ -254,4 +270,110 @@ body {
 
 #highlights {
   padding: 40px 0px 40px 0px;
+}
+.highlight-story {
+  max-width: 500px;
+  height: 260px;
+  background-color: #000000;
+  margin: auto;
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border: 0px solid #000000;
+}
+.highlight-story .content {
+  padding: 30px 25px 0px 25px;
+}
+.highlight-story .number-container {
+  display: inline;
+  vertical-align: middle;
+}
+.highlight-story .highlight-number {
+  border-radius: 50%;
+  padding: 6px 12px 6px 12px;
+  background: #3c2886;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  text-align: center;
+  font: 14px bold "proxima-nova", sans-serif;
+}
+.highlight-story h3 {
+  display: inline;
+  vertical-align: middle;
+  padding-left: 10px;
+  color: #FFFFFF;
+  font-size: 24px;
+  line-height: 40px;
+}
+.highlight-story p {
+  color: #FFFFFF;
+  font-size: 14px;
+  line-height: 24px;
+  padding-top: 10px;
+}
+.highlight-story button {
+  margin-left: 0;
+}
+
+/* Background Images */
+.hallman {
+  background: url('../images/highlights/hallman-highlights.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.mconnell {
+  background: url('../images/highlights/mconnell-highlights.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.ymca {
+  background: url('../images/highlights/ymca-highlights.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.bcbbs {
+  background: url('../images/highlights/bcbbs-highlights.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.philanthropy {
+  background: url('../images/highlights/philanthropy-highlights.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.philanthropist-year {
+  background: url('../images/highlights/philanthropist-year-highlights.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.imagine {
+  background: url('../images/highlights/imagine-highlights.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+@media (max-width: 992px){
+  .highlight-story {
+    max-width: 500px;
+    margin-bottom: 25px;
+  }
+}
+@media (max-width: 480px) {
+  .highlight-story {
+    height: 335px;
+  }
 }

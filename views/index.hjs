@@ -77,27 +77,28 @@
 			</div>
 		</div>
 		<div id="impact-areas">
+			<!-- Row 1 -->
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
 						<div class="impact-story battlefield-tour">
-							<h4 class="impact-category">Academic Program Development</h4>
+							<h4>Academic Program Development</h4>
 							<h3>John and Pattie Cleghorn Help Students Explore Canada’s Battlefields</h3>
-							<a href="#"><button class="btn btn-primary readmore-button">READ MORE</button></a>
+							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="impact-story research-award">
-							<h4 class="impact-category">Research Excellence</h4>
+							<h4>Research Excellence</h4>
 							<h3>Ira Gluskin Supports Award-Winning Research</h3>
-							<a href="#"><button class="btn btn-primary readmore-button">READ MORE</button></a>
+							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="impact-story gsa-lounge">
-							<h4 class="impact-category">Learning and Study Space</h4>
+							<h4>Learning and Study Space</h4>
 							<h3>Graduate Students Create A Room Of Their Own </h3>
-							<a href="#"><button class="btn btn-primary readmore-button">READ MORE</button></a>
+							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -105,20 +106,21 @@
 			<div class="spacer">
 				&nbsp;
 			</div>
+			<!-- Row 2 -->
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 col-md-offset-2">
 						<div class="impact-story thompson-music">
-							<h4 class="impact-category">Student Financial Support</h4>
+							<h4>Student Financial Support</h4>
 							<h3>William Thompson Inspires Music in Our Community </h3>
-							<a href="#"><button class="btn btn-primary readmore-button">READ MORE</button></a>
+							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="impact-story graduate-connected">
-							<h4 class="impact-category">Beyond The Classroom</h4>
+							<h4>Beyond The Classroom</h4>
 							<h3>Education Graduate Stays Connected</h3>
-							<a href="#"><button class="btn btn-primary readmore-button">READ MORE</button></a>
+							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -126,11 +128,136 @@
 		</div>
 		<!-- Year in Review -->
 		<!-- Highlights -->
-		<div class="container" id="highlights">
-			<div class="row">
+		<div class="container">
+			<div class="row" id="highlights">
 				<div class="col-md-12 title">
 					<h2>Highlights</h2>
 					<div class="purple-divider">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Row 1 -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="highlight-story hallman">
+						<div class="content">
+							<div class="number-container">
+								<span class="highlight-number">1</span>
+							</div>
+							<h3>Lyle S. Hallman Foundation</h3>
+							<p>Morbi quis ultricies tellus, eget hendrerit neque. Nunc convallis sem id aliquam lacinia. Donec efficitur placerat odio ut luctus. Cras eros nulla, dignissim et elit eget, dictum vestibulum nulla. In vitae tortor lectus.</p>
+							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="highlight-story mconnell">
+						<div class="content">
+							<div class="number-container">
+								<span class="highlight-number">2</span>
+							</div>
+							<h3>J.W. McConnell Family Foundation </h3>
+							<p>Sed in faucibus tortor, nec porttitor urna. Curabitur ex nulla, ultrices eu dui et, auctor faucibus tellus. Praesent sodales metus ut volutpat sodales. Aenean lacus elit, pellentesque at tincidunt ut, placerat quis urna.</p>
+							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="spacer">
+			&nbsp;
+		</div>
+		<!-- Row 2 -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="highlight-story ymca">
+						<div class="content">
+							<div class="number-container">
+								<span class="highlight-number">3</span>
+							</div>
+							<h3>Wilfrid Laurier University and YMCA</h3>
+							<p>Duis pulvinar lectus ut ultrices aliquam. Duis non mauris ornare, tincidunt neque vel, mattis augue. Vestibulum posuere est ac odio tempus tincidunt. Morbi pellentesque, nulla id tincidunt blandit, est justo ullamcorper est.</p>
+							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="highlight-story bcbbs">
+						<div class="content">
+							<div class="number-container">
+								<span class="highlight-number">4</span>
+							</div>
+							<h3>Building Canada’s Best Business School</h3>
+							<p>Etiam imperdiet lorem ac hendrerit vulputate. Pellentesque a porttitor lectus, sed blandit dui. Mauris nec ullamcorper justo. Donec pulvinar, dolor eget bibendum cursus, ipsum leo viverra justo, id posuere tellus ipsum.</p>
+							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="spacer">
+			&nbsp;
+		</div>
+		<!-- Row 3 -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="highlight-story philanthropy">
+						<div class="content">
+							<div class="number-container">
+								<span class="highlight-number">5</span>
+							</div>
+							<h3>Laurier Society Philanthropy Awards</h3>
+							<p>Suspendisse feugiat libero sit amet lectus dictum lacinia. Aliquam non rhoncus massa. Nullam iaculis semper libero, a finibus arcu lacinia eu. Ut sed lacus tortor. Nam aliquam orci non erat volutpat, congue semper metus.</p>
+							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="highlight-story philanthropist-year">
+						<div class="content">
+							<div class="number-container">
+								<span class="highlight-number">6</span>
+							</div>
+							<h3>Building Canada’s Best Business School</h3>
+							<p>Proin non suscipit augue. Sed eros augue, pellentesque non purus sed, mollis ullamcorper est. Proin sollicitudin sem ut tortor lobortis, vitae pellentesque mauris facilisis.</p>
+							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="spacer">
+			&nbsp;
+		</div>
+		<!-- Row 4 -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3">
+					<div class="highlight-story imagine">
+						<div class="content">
+							<div class="number-container">
+								<span class="highlight-number">7</span>
+							</div>
+							<h3>Imagine Canada</h3>
+							<p>Fusce eu dictum ipsum. Integer sit amet odio accumsan, tincidunt justo fermentum, scelerisque lorem. Cras lobortis arcu nec libero tempor, non lobortis dolor viverra.</p>
+							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Statistics -->
+		<div class="container">
+			<div class="row" id="highlights">
+				<div class="col-md-12 title">
+					<h2>Highlights</h2>
+					<p>2014 - 2015 Giving Financials</p>
+					<div class="red-divider">
 						&nbsp;
 					</div>
 				</div>
