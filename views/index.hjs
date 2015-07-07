@@ -149,9 +149,6 @@
 				<div class="col-md-6">
 					<div class="highlight-story hallman">
 						<div class="content">
-							<div class="number-container">
-								<span class="highlight-number">1</span>
-							</div>
 							<h3>Lyle S. Hallman Foundation</h3>
 							<p>Morbi quis ultricies tellus, eget hendrerit neque. Nunc convallis sem id aliquam lacinia. Donec efficitur placerat odio ut luctus. Cras eros nulla, dignissim et elit eget, dictum vestibulum nulla. In vitae tortor lectus.</p>
 							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
@@ -161,9 +158,6 @@
 				<div class="col-md-6">
 					<div class="highlight-story mconnell">
 						<div class="content">
-							<div class="number-container">
-								<span class="highlight-number">2</span>
-							</div>
 							<h3>J.W. McConnell Family Foundation </h3>
 							<p>Sed in faucibus tortor, nec porttitor urna. Curabitur ex nulla, ultrices eu dui et, auctor faucibus tellus. Praesent sodales metus ut volutpat sodales. Aenean lacus elit, pellentesque at tincidunt ut, placerat quis urna.</p>
 							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
@@ -181,9 +175,6 @@
 				<div class="col-md-6">
 					<div class="highlight-story ymca">
 						<div class="content">
-							<div class="number-container">
-								<span class="highlight-number">3</span>
-							</div>
 							<h3>Wilfrid Laurier University and YMCA</h3>
 							<p>Duis pulvinar lectus ut ultrices aliquam. Duis non mauris ornare, tincidunt neque vel, mattis augue. Vestibulum posuere est ac odio tempus tincidunt. Morbi pellentesque, nulla id tincidunt blandit, est justo ullamcorper est.</p>
 							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
@@ -193,9 +184,6 @@
 				<div class="col-md-6">
 					<div class="highlight-story bcbbs">
 						<div class="content">
-							<div class="number-container">
-								<span class="highlight-number">4</span>
-							</div>
 							<h3>Building Canada’s Best Business School</h3>
 							<p>Etiam imperdiet lorem ac hendrerit vulputate. Pellentesque a porttitor lectus, sed blandit dui. Mauris nec ullamcorper justo. Donec pulvinar, dolor eget bibendum cursus, ipsum leo viverra justo, id posuere tellus ipsum.</p>
 							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
@@ -213,9 +201,6 @@
 				<div class="col-md-6">
 					<div class="highlight-story philanthropy">
 						<div class="content">
-							<div class="number-container">
-								<span class="highlight-number">5</span>
-							</div>
 							<h3>Laurier Society Philanthropy Awards</h3>
 							<p>Suspendisse feugiat libero sit amet lectus dictum lacinia. Aliquam non rhoncus massa. Nullam iaculis semper libero, a finibus arcu lacinia eu. Ut sed lacus tortor. Nam aliquam orci non erat volutpat, congue semper metus.</p>
 							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
@@ -225,9 +210,6 @@
 				<div class="col-md-6">
 					<div class="highlight-story philanthropist-year">
 						<div class="content">
-							<div class="number-container">
-								<span class="highlight-number">6</span>
-							</div>
 							<h3>AFP Philanthropists of the Year</h3>
 							<p>Proin non suscipit augue. Sed eros augue, pellentesque non purus sed, mollis ullamcorper est. Proin sollicitudin sem ut tortor lobortis, vitae pellentesque mauris facilisis.</p>
 							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
@@ -245,9 +227,6 @@
 				<div class="col-md-6 col-md-offset-3">
 					<div class="highlight-story imagine">
 						<div class="content">
-							<div class="number-container">
-								<span class="highlight-number">7</span>
-							</div>
 							<h3>Imagine Canada</h3>
 							<p>Fusce eu dictum ipsum. Integer sit amet odio accumsan, tincidunt justo fermentum, scelerisque lorem. Cras lobortis arcu nec libero tempor, non lobortis dolor viverra.</p>
 							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
@@ -258,9 +237,9 @@
 		</div>
 		<!-- Statistics -->
 		<div class="container">
-			<div class="row" id="highlights">
+			<div class="row" id="the-numbers">
 				<div class="col-md-12 title">
-					<h2>Statistics</h2>
+					<h2>The Numbers</h2>
 					<p>2014 - 2015 Giving Financials</p>
 					<div class="red-divider">
 						&nbsp;
@@ -268,20 +247,101 @@
 				</div>
 			</div>
 		</div>
-		<!-- Row 1 -->
+		<!-- Row 1 + 2 -->
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3">
-					<span class="icon-school3"></span>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="numbers-box">
+								<div class="numbers-header">
+									<div class="circle">
+										<img src="images/gold-bubble.png" />
+									</div>
+									<p>TOTAL GIFT AMOUNT</p>
+									<div class="number-divider">&nbsp;</div>
+								</div>
+								<div class="icon-container">
+									<span class="icon-stroke-gift-2 wlu-gold numbers-icon"></span>
+								</div>
+								<div class="numbers-info">
+									<h3>$28,024,594</h3>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="numbers-box">
+								<div class="numbers-header">
+									<div class="circle">
+										<img src="images/gold-bubble.png" />
+									</div>
+									<p>TOTAL NUMBER OF DONORS</p>
+									<div class="number-divider">&nbsp;</div>
+								</div>
+								<div class="icon-container">
+									<span class="icon-solid-group-2 wlu-gold numbers-icon"></span>
+								</div>
+								<div class="numbers-info">
+									<h3>4,008</h3>
+									<p>DONORS</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 				<div class="col-md-3">
-					<p>This is a test.</p>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="numbers-box">
+								<div class="numbers-header">
+									<div class="circle">
+										<img src="images/gold-bubble.png" />
+									</div>
+									<p>TOTAL NUMBER OF DONATIONS</p>
+									<div class="number-divider">&nbsp;</div>
+								</div>
+								<div class="icon-container">
+									<span class="icon-solid-bucket-2 wlu-gold numbers-icon"></span>
+								</div>
+								<div class="numbers-info">
+									<h3>4,424</h3>
+									<p>DONATIONS</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="numbers-box">
+								<div class="numbers-header">
+									<div class="circle">
+										<img src="images/gold-bubble.png" />
+									</div>
+									<p>AVERAGE GIFT AMOUNT</p>
+									<div class="number-divider">&nbsp;</div>
+								</div>
+								<div class="icon-container">
+									<span class="icon-stroke-money-2 wlu-gold numbers-icon"></span>
+								</div>
+								<div class="numbers-info">
+									<h3>$2,032</h3>
+									<p>DOLLARS</p>
+									<p class="disclaimer">* Does not include Mike Lazaridis' $20-million donation.</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 				<div class="col-md-6">
-					<p>This is a test.</p>
+					<div class="chart-box">
+						<p>This is a test.</p>
+					</div>
 				</div>
 			</div>
 		</div>
+		<!-- Row 3 -->
 		<!-- JavaScript Files -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>

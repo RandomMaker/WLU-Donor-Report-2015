@@ -1,6 +1,7 @@
 /* GENERAL STYLING */
 body {
   font-family: "calluna-sans",sans-serif;
+  color: #373737;
 }
 
 @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
@@ -81,6 +82,9 @@ body {
 }
 .spacer {
   height: 40px;
+}
+.wlu-gold {
+  color: #fcb814;
 }
 
 @media (max-width: 992px){
@@ -266,7 +270,7 @@ body {
   }
 }
 
-/* Highlights */
+/* HIGHLIGHTS */
 
 #highlights {
   padding: 40px 0px 40px 0px;
@@ -284,23 +288,9 @@ body {
 .highlight-story .content {
   padding: 30px 25px 0px 25px;
 }
-.highlight-story .number-container {
-  display: inline;
-  vertical-align: middle;
-}
-.highlight-story .highlight-number {
-  border-radius: 50%;
-  padding: 6px 12px 6px 12px;
-  background: #3c2886;
-  border: 2px solid #ffffff;
-  color: #ffffff;
-  text-align: center;
-  font: 14px bold "proxima-nova", sans-serif;
-}
 .highlight-story h3 {
   display: inline;
   vertical-align: middle;
-  padding-left: 10px;
   color: #FFFFFF;
   font-size: 24px;
   line-height: 40px;
@@ -376,4 +366,73 @@ body {
   .highlight-story {
     height: 335px;
   }
+}
+
+/* THE NUMBERS */
+
+#the-numbers {
+  padding: 40px 0px 40px 0px;
+}
+.numbers-box {
+  background-color: #f2f2f2;
+  width: 250px;
+  height: 243px;
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border: 0px solid #000000;
+  margin-bottom: 38px;
+}
+.chart-box {
+  background-color: #f2f2f2;
+  width: 500px;
+  height: 525px;
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border: 0px solid #000000;
+}
+.numbers-header {
+  padding: 15px;
+}
+.numbers-box p {
+  font-size: 12px;
+  display: inline;
+  padding-left: 5px;
+}
+.circle {
+  display: inline;
+}
+.circle img {
+  width: 16px;
+}
+.number-divider {
+  height: 12px;
+  width: 45px;
+  border-bottom: 3px solid #fcb814;
+}
+.icon-container {
+  padding-top: 10px;
+  text-align: center;
+}
+.numbers-icon {
+  font-size: 55px;
+}
+.numbers-info {
+  text-align: center;
+}
+.numbers-info h3 {
+  margin-top: 10px;
+  font-size: 36px;
+}
+.numbers-info p {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 14px;
+}
+.numbers-info .disclaimer {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 9px;
+  color: #757575;
+  display: block;
+  padding-top: 10px;
 }
