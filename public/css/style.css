@@ -27,6 +27,11 @@ body {
   -moz-animation-delay:1.2s;
   animation-delay: 1.2s;
 }
+.fade-in.delay-two {
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay:2s;
+  animation-delay: 2s;
+}
 .background-cover {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -182,6 +187,32 @@ body {
   font-family: "proxima-nova", sans-serif;
   font-weight: 300;
   line-height: 30px;
+}
+.control-btn .fa-angle-down {
+  margin-top: 150px;
+  border-radius: 50%;
+  font-size: 30px;
+  background: #3c2886;
+  color: #FFFFFF;
+  opacity: 70;
+  filter: alpha(opacity=7000);
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+  padding: 8px 14px 8px 14px;
+}
+.control-btn .fa-angle-down:hover {
+  color: #fcb814;
+  transition: all 0.5s ease 0s;
+  -webkit-transition: all 0.5s ease 0s;
+  -moz-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
+}
+
+@media (max-width: 500px){
+  .control-btn .fa-angle-down {
+    margin-top: 60px;
+  }
 }
 
 /* AREAS OF IMPACT */

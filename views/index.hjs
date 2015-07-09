@@ -64,6 +64,7 @@
 						<div class="thank-you-message">
 							<h1 class="fade-in">Thank you for your support!</h1>
 							<p class="fade-in delay-one">Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.</p>
+							<a class="control-btn fade-in delay-two" href="#" onclick="impactAreasScroll()"><i class="fa fa-angle-down"></i></a>
 						</div>
 					</div>
 				</div>
@@ -439,6 +440,14 @@
 				</div>
 			</div>
 		</footer>
+		<!-- JavaScript -->
+		<script>
+			function impactAreasScroll(){
+				$('html, body').animate({
+				    scrollTop: $("#impact-title").offset().top
+				}, 1000);
+			}
+		</script>
 		<!-- JavaScript Files -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
