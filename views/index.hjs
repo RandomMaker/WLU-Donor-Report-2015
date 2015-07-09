@@ -23,6 +23,8 @@
 		<link href="css/font.css" rel="stylesheet">
 		<!--[if lt IE 8]><!-->
 		<link href="ie7/ie7.css" rel="stylesheet">
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
 		<!--<![endif]-->
 	</head>
 	<body>
@@ -252,7 +254,7 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="row">
-						<div class="col-md-6">
+						<div class="col-md-12">
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
@@ -271,7 +273,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-6">
+						<div class="col-md-12">
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
@@ -293,7 +295,7 @@
 				</div>
 				<div class="col-md-3">
 					<div class="row">
-						<div class="col-md-6">
+						<div class="col-md-12">
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
@@ -313,7 +315,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-6">
+						<div class="col-md-12">
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
@@ -328,20 +330,115 @@
 								<div class="numbers-info">
 									<h3>$2,032</h3>
 									<p>DOLLARS</p>
-									<p class="disclaimer">* Does not include Mike Lazaridis' $20-million donation.</p>
+									<p class="disclaimer">* Includes Mike Lazaridis' $20-million donation</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
+				<!-- Donut Chart -->
 				<div class="col-md-6">
 					<div class="chart-box">
 						<p>This is a test.</p>
 					</div>
 				</div>
 			</div>
+			<!-- Row 3 -->
+			<div class="row">
+				<div class="col-md-3">
+					<div class="numbers-box">
+						<div class="numbers-header">
+							<div class="circle">
+								<img src="images/gold-bubble.png" />
+							</div>
+							<p>1,270 STUDENTS RECEIVED</p>
+							<div class="number-divider">&nbsp;</div>
+						</div>
+						<div class="icon-container">
+							<span class="icon-solid-group-1 wlu-gold numbers-icon"></span>
+						</div>
+						<div class="numbers-info">
+							<h3>$2,866,635</h3>
+							<p>IN SCHOLARSHIPS, AWARDS <br>AND BURSARIES</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="numbers-box">
+						<div class="numbers-header">
+							<div class="circle">
+								<img src="images/gold-bubble.png" />
+							</div>
+							<p>INCREASE IN ALUMNI DONATIONS</p>
+							<div class="number-divider">&nbsp;</div>
+						</div>
+						<div class="icon-container">
+							<span class="icon-stroke-up-3 wlu-gold numbers-icon"></span>
+						</div>
+						<div class="numbers-info">
+							<h3>13%</h3>
+							<p class="disclaimer">* Does not include Mike Lazaridis' $20-million donation.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="numbers-box">
+						<div class="numbers-header">
+							<div class="circle">
+								<img src="images/gold-bubble.png" />
+							</div>
+							<p>DONATED THROUGH ESTATES</p>
+							<div class="number-divider">&nbsp;</div>
+						</div>
+						<div class="icon-container">
+							<span class="icon-solid-document-2 wlu-gold numbers-icon"></span>
+						</div>
+						<div class="numbers-info">
+							<h3>$766,207</h3>
+							<p>DONORS</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="numbers-box">
+						<div class="numbers-header">
+							<div class="circle">
+								<img src="images/gold-bubble.png" />
+							</div>
+							<p>OF ALL DONORS</p>
+							<div class="number-divider">&nbsp;</div>
+						</div>
+						<div class="icon-container">
+							<span class="icon-school3 wlu-gold numbers-icon"></span>
+						</div>
+						<div class="numbers-info">
+							<h3>57%</h3>
+							<p>ARE ALUMNI</p>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-		<!-- Row 3 -->
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="footer-menu">
+						<ul class="footer-links">
+							<li><a href="#">HOME</a></li>
+							<li><a href="#">IMPACT</a></li>
+							<li><a href="#">HIGHLIGHTS</a></li>
+							<li><a href="#">THE NUMBERS</a></li>
+							<li><a href="#">CONTACT</a></li>
+							<li class="last"><a href="#">GIVE</a></li>
+						</ul>
+					</div>
+					<div class="social-links">
+						<p>This is a test.</p>
+					</div>
+				</div>
+			</div>
+		</footer>
 		<!-- JavaScript Files -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
