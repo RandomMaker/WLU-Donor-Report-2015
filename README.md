@@ -11,7 +11,6 @@ This front end project uses the following stack:
 - JavaScript
 - Bootstrap
 - jQuery
-- AngularJS
-- Google Charts
+- Chart.js
 
 Please contact jthomson@wlu.ca for any alumni relations inquiries.

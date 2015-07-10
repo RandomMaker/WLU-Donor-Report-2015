@@ -27,17 +27,6 @@ body {
   -moz-animation-delay:1.2s;
   animation-delay: 1.2s;
 }
-.fade-in.delay-two {
-  -webkit-animation-delay: 2s;
-  -moz-animation-delay:2s;
-  animation-delay: 2s;
-}
-.background-cover {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
 .title h2 {
   font-size: 36px;
   margin: 0;

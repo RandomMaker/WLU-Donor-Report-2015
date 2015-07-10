@@ -19,7 +19,7 @@
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
-		<!-- Custom Fonts -->
+		<!-- Custom Fonts For Statistics -->
 		<link href="css/font.css" rel="stylesheet">
 		<!--[if lt IE 8]><!-->
 		<link href="ie7/ie7.css" rel="stylesheet">
@@ -64,7 +64,7 @@
 						<div class="thank-you-message">
 							<h1 class="fade-in">Thank you for your support!</h1>
 							<p class="fade-in delay-one">Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.</p>
-							<a class="control-btn fade-in delay-two" href="#" onclick="impactAreasScroll()"><i class="fa fa-angle-down"></i></a>
+							<a class="control-btn" href="#" onclick="impactAreasScroll()"><i class="fa fa-angle-down"></i></a>
 						</div>
 					</div>
 				</div>
@@ -442,6 +442,7 @@
 		</footer>
 		<!-- JavaScript -->
 		<script>
+			/* Scrolling Animation For Round Arrow Button */
 			function impactAreasScroll(){
 				$('html, body').animate({
 				    scrollTop: $("#impact-title").offset().top
