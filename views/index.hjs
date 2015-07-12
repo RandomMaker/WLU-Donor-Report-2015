@@ -56,19 +56,23 @@
 				<!--/.nav-collapse -->
 			</div>
 		</nav>
-		<!-- Thank You Banner -->
-		<header class="thank-you">
+		<!-- Thank You Video -->
+		<header id="thank-you-container">
+			<video id="thank-you-video" autoplay loop poster="/images/thank-you-header.jpg">
+				<source src="/video/thank-you-100.webm" type="video/webm">
+				<source src="/video/thank-you-100.mp4" type="video/mp4">
+			</video>
 			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="thank-you-message">
-							<h1 class="fade-in">Thank you for your support!</h1>
-							<p class="fade-in delay-one">Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.</p>
-							<a class="control-btn" href="#" onclick="impactAreasScroll()"><i class="fa fa-angle-down"></i></a>
+					<div class="row">
+						<div class="col-md-12">
+							<div class="thank-you-message">
+								<h1 class="fade-in">Thank you for your support!</h1>
+								<p class="fade-in delay-one">Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.</p>
+								<a class="control-btn" href="#" onclick="impactAreasScroll()"><i class="fa fa-angle-down"></i></a>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
 		</header>
 		<!-- Areas of Impact -->
 		<div id="impact-title">
