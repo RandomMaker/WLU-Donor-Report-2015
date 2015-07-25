@@ -13,6 +13,8 @@
 		<script>try{Typekit.load();}catch(e){}</script>
 		<!-- Donor Report Styling -->
 		<link href="css/style.css" rel="stylesheet">
+		<!-- Magnific Popup CSS -->
+		<link href="css/magnific-popup.css" rel="stylesheet">
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -29,7 +31,7 @@
 	</head>
 	<body>
 		<!-- Navbar -->
-		<nav class="navbar navbar-default">
+		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -67,7 +69,7 @@
 						<div class="col-md-12">
 							<div class="thank-you-message">
 								<h1 class="fade-in">Thank you for your support!</h1>
-								<p class="fade-in delay-one">Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.</p>
+								<p class="fade-in delay-one">Your donations are an investment in the future of every Laurier student. Find out how you made a difference at Wilfrid Laurier University over the past year.<br /><a href="#" id="watchVideo"><button class="btn btn-primary">WATCH THE VIDEO</button></a></p>
 								<a class="control-btn" href="#" onclick="impactAreasScroll()"><i class="fa fa-angle-down"></i></a>
 							</div>
 						</div>
@@ -79,8 +81,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 title">
-						<h2>Areas of Impact</h2>
-						<p>Vivamus fermentum aliquam diam ut luctus.</p>
+						<h2>Impact</h2>
 						<div class="yellow-divider">
 							&nbsp;
 						</div>
@@ -439,22 +440,58 @@
 						</ul>
 					</div>
 					<div class="social-links">
-						<p>This is a test.</p>
+						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
 					</div>
 				</div>
 			</div>
 		</footer>
-		<!-- JavaScript -->
-		<script>
-			/* Scrolling Animation For Round Arrow Button */
-			function impactAreasScroll(){
-				$('html, body').animate({
-				    scrollTop: $("#impact-title").offset().top
-				}, 1000);
-			}
-		</script>
 		<!-- JavaScript Files -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script src="js/magnific-popup.js"></script>
+		<!-- JavaScript -->
+		<script>
+			/* Watch Video Popup */
+			$('#watchVideo').magnificPopup({
+			    items: [
+			      {
+			        src: 'https://www.youtube.com/watch?v=Ea4UBKuaX1E',
+			        type: 'iframe'
+			      }
+			    ],
+			    gallery: {
+			      enabled: true
+			    },
+			    type: 'image'
+			});
+			/* Scrolling Animation For Homepage Arrow Scrolling */
+			function impactAreasScroll(){
+				$('html, body').animate({
+				    scrollTop: $("#impact-title").offset().top - 115
+				}, 1000);
+			}
+			/* Menu Scroll Transition */
+			var targetOffset = $("#impact-title").offset().top;
+
+			var $w = $(window).scroll(function(){
+			    if ( $w.scrollTop() > targetOffset ) {   
+			        $('.navbar').css({
+			        	"-webkit-box-shadow":"0px 5px 10px 0px rgba(55,55,55,1)",
+			        	"-moz-box-shadow":"0px 5px 10px 0px rgba(55,55,55,1)",
+			        	"box-shadow":"0px 5px 10px 0px rgba(55,55,55,1)"
+			    	});
+			    } else {
+			      if ( $w.scrollTop() < targetOffset ) {
+			      	$('.navbar').css({
+			      		"-webkit-box-shadow":"none",
+			        	"-moz-box-shadow":"none",
+			        	"box-shadow":"none"
+			      	});
+			      }
+			    }
+			});
+		</script>
 	</body>
 </html>

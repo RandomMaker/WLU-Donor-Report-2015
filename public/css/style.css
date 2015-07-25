@@ -18,14 +18,14 @@ body {
   -moz-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 
-  -webkit-animation-duration: 1.2s;
-  -moz-animation-duration: 1.2s;
-  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.5s;
+  -moz-animation-duration: 1.5s;
+  animation-duration: 1.5s;
 }
 .fade-in.delay-one {
-  -webkit-animation-delay: 1.2s;
-  -moz-animation-delay:1.2s;
-  animation-delay: 1.2s;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay:1.5s;
+  animation-delay: 1.5s;
 }
 .title h2 {
   font-size: 36px;
@@ -94,9 +94,9 @@ body {
 	max-width: 180px;
 }
 .navbar {
-	min-height:115px !important;
+	min-height: 115px !important;
   margin-bottom: 0px !important;
-  background: #FFFFFF;
+  background: #ffffff;
   border: none;
   z-index: 250;
 }
@@ -128,7 +128,10 @@ body {
 
 @media (max-width: 992px){
   .navbar .container {
-    width: 780px;
+    width: 760px;
+  }
+  .navbar-default .navbar-nav > li > a {
+    padding-left: 5px;
   }
 }
 @media (max-width: 768px){
@@ -154,6 +157,7 @@ body {
 /* HEADER THANK YOU */
 
 #thank-you-container {
+  margin-top: 115px;
   height: 525px;
   overflow: hidden;
 }
@@ -179,8 +183,8 @@ body {
   height: 525px;
   background: #373737;
   overflow: hidden;
-  opacity: 0.7;
-  filter: alpha(opacity=7000);
+  opacity: 0.8;
+  filter: alpha(opacity=8000);
 }
 
 #thank-you-container .thank-you-message {
@@ -201,8 +205,24 @@ body {
   font-weight: 300;
   line-height: 30px;
 }
+#thank-you-container .thank-you-message button {
+  color: #FFFFFF;
+  background-color: #3c2886;
+  border: 2px solid #3c2886;
+  padding: 10px 15px 10px 15px;
+  margin-top: 20px;
+}
+#thank-you-container .thank-you-message  button:hover {
+  color: #3c2886;
+  background-color: #FFFFFF;
+  border-color: #3c2886;
+  -webkit-transition: all 0.5s ease 0s;
+  -moz-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
+}
 #thank-you-container .control-btn .fa-angle-down {
-  margin-top: 150px;
+  margin-top: 105px;
   border-radius: 50%;
   font-size: 30px;
   background: #3c2886;
@@ -213,6 +233,7 @@ body {
 #thank-you-container .control-btn .fa-angle-down:hover {
   color: #fcb814;
   transition: all 0.5s ease 0s;
+  opacity: 1;
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
   -o-transition: all 0.5s ease 0s;
@@ -540,6 +561,20 @@ body {
 #footer .social-links {
   float: right;
   display: inline;
+  font-size: 20px;
+  margin-top: -52px;
+}
+#footer .social-links i {
+  color: #b5b5b5;
+  margin-right: 7px;
+}
+#footer .social-links i:hover {
+  color: #3c2886;
+  transition: all 0.5s ease 0s;
+  -webkit-transition: all 0.5s ease 0s;
+  -moz-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
 }
 
 @media (max-width: 768px){
