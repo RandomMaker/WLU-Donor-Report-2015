@@ -3,7 +3,7 @@
 
 The Donor Impact Report is sent out to all university alumni. Its purpose is to showcase and summarize the results of their donations for the past year.
 
-The report is split into three sections which include: areas of impact, highlights and the numbers. This was created at the request of the Alumni Association.
+The report is split into three sections which include: areas of impact, highlights and the numbers. This project is managed by the Alumni Association.
 
 The ultimate goal of this report was to improve upon last years' by better engaging and connecting to readers. This will help drive further and repeat donations to the university.
 
