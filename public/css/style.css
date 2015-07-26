@@ -8,6 +8,13 @@ body {
 @-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
 @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
 
+a {
+  color: #3c2886;
+  text-decoration: none;
+}
+a:hover {
+  color: #31206C;
+}
 .fade-in {
   opacity: 0;
   -webkit-animation:fadeIn ease-in 1;
@@ -80,6 +87,12 @@ body {
 .wlu-gold {
   color: #fcb814;
 }
+div.clear {
+    clear: both;
+}
+.bold {
+  font-weight: 700;
+}
 
 @media (max-width: 992px){
   .spacer {
@@ -87,8 +100,62 @@ body {
   }
 }
 
-/* NAVBAR / MENU STYLING */
+/* POPUP STYLING */
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 40px;
+  width: auto;
+  max-width: 900px;
+  margin: 20px auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+.white-popup img {
+  float: left;
+  max-width: 400px;
+  width: 100%;
+  padding-right: 35px;
+}
+.white-popup p {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+.white-popup .contact-button {
+  font-weight: 700;
+  color: #3c2886;
+  background-color: #FFFFFF;
+  border: 2px solid #3c2886;
+  padding: 8px 18px 8px 18px;
+  min-width: 300px;
+}
+.white-popup .contact-button:hover {
+  color: #FFFFFF;
+  background-color: #3c2886;
+  border: 2px solid #3c2886;
+  transition: all 0.5s ease 0s;
+  -webkit-transition: all 0.5s ease 0s;
+  -moz-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
+}
 
+@media (max-width: 768px){
+  .white-popup {
+    padding: 20px;
+  }
+  .white-popup img {
+    float: none;
+    max-width: 700px;
+    margin: auto;
+    padding-right: 0;
+    padding-bottom: 35px;
+  }
+}
+
+/* NAVBAR / MENU STYLING */
 .logo {
 	padding-top: 15px;
 	max-width: 180px;
@@ -156,7 +223,6 @@ body {
 }
 
 /* HEADER THANK YOU */
-
 #thank-you-container {
   margin-top: 115px;
   height: 525px;
@@ -187,7 +253,6 @@ body {
   opacity: 0.8;
   filter: alpha(opacity=8000);
 }
-
 #thank-you-container .thank-you-message {
   max-width: 725px;
   margin: 150px auto 0 auto;
@@ -265,7 +330,6 @@ body {
 }
 
 /* AREAS OF IMPACT */
-
 #impact-title {
   background-color: #3c2886;
   color: #FFFFFF;
@@ -351,7 +415,6 @@ body {
 }
 
 /* HIGHLIGHTS */
-
 #highlights {
   padding: 40px 0px 40px 0px;
 }
@@ -449,7 +512,6 @@ body {
 }
 
 /* THE NUMBERS */
-
 #theNumbers {
   padding: 40px 0px 40px 0px;
 }
@@ -472,15 +534,15 @@ body {
   -webkit-border-radius: 3px 3px 3px 3px;
   border: 0px solid #000000;
 }
-.numbers-header {
-  padding: 15px;
-}
-.numbers-box p {
+.chart-box p {
   font-size: 12px;
   display: inline;
   padding-left: 5px;
 }
-.chart-box p {
+.numbers-header {
+  padding: 15px;
+}
+.numbers-box p {
   font-size: 12px;
   display: inline;
   padding-left: 5px;
@@ -522,8 +584,6 @@ body {
   padding-top: 10px;
 }
 #donorChart {
-  width: 100%;
-  height: 100%;
   max-height: 300px;
 }
 #donorChartLegend {
@@ -538,7 +598,7 @@ body {
 }
 .chartLegend li {
   list-style: none;
-  padding-bottom: 8px;
+  padding-bottom: 9px;
 }
 .chartLegend li span {
   display: inline-block;
@@ -561,9 +621,13 @@ body {
     margin-bottom: 35px;
   }
 }
+@media (max-width: 480px){
+  .chart-box {
+    height: 425px;
+  }
+}
 
 /* FOOTER */
-
 #footer {
   background-color: #F2F2F2;
   height: 80px;
