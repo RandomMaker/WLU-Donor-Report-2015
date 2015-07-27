@@ -47,7 +47,8 @@ a:hover {
   font-weight: 200;
   text-align: center;
 }
-.yellow-divider {
+.yellow-
+ {
   width: 75px;
   border-bottom: 3px solid #fcb814;
   margin: auto;
@@ -583,10 +584,7 @@ div.clear {
   display: block;
   padding-top: 10px;
 }
-#donorChart {
-  max-height: 300px;
-}
-#donorChartLegend {
+#donor-chart-legend {
   padding-top: 25px;
   max-width: 475px;
   margin: auto;
@@ -596,11 +594,11 @@ div.clear {
   -webkit-columns: 2;
   -moz-columns: 2;
 }
-.chartLegend li {
+.chart-legend li {
   list-style: none;
   padding-bottom: 9px;
 }
-.chartLegend li span {
+.chart-legend li span {
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -679,5 +677,219 @@ div.clear {
 @media (max-width: 768px){
   footer {
     display: none;
+  }
+}
+
+/* SUBPAGES STYLING */
+.info-header {
+  margin-top: 110px;
+  padding: 25px 0px 25px 0px;
+}
+.info-header h3 {
+  color: #757575;
+  font-size: 18px;
+  font-family: "proxima-nova", sans-serif;
+  margin-bottom: 0px;
+}
+.info-header h1 {
+  margin-top: 5px;
+}
+
+/* BUILDING CANADAS BEST BUSINESS SCHOOL */
+#bcbbs-intro {
+  background: url('../images/highlights/bcbbs-intro-background.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-repeat:no-repeat;
+  background-position: top right;
+  max-width: 1005px;
+  height: 665px;
+  margin: auto;
+  padding: 35px;
+}
+#bcbbs-intro .container {
+  max-width: 575px;
+  margin-top: 125px;
+  float: right;
+}
+#bcbbs-intro h2 {
+  color: #FFFFFF;
+  font-size: 24px;
+  line-height: 36px;
+  float: right;
+  text-align: right;
+}
+#bcbbs-intro .readMoreContainer {
+  font-size: 25px;
+  float: right;
+  color: #FFFFFF;
+  max-width: 400px;
+}
+#bcbbs-intro .readMoreContainer .fa-plus-circle {
+  cursor: pointer;
+}
+#bcbbs-intro .readMoreContainer .fa-plus-circle:hover {
+  color: #b5b5b5;
+}
+#bcbbs-intro .readMoreContainer p {
+  font-size: 14px;
+  line-height: 21px;
+  text-align: right;
+}
+
+/* TIMELINE STYLING */
+.bcbbs-timeline h2 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.timeline {
+    list-style: none;
+    padding: 20px 0 20px;
+    position: relative;
+}
+.timeline:before {
+top: 0;
+bottom: 0;
+position: absolute;
+content: " ";
+width: 3px;
+background-color: #eeeeee;
+left: 50%;
+margin-left: -1.5px;
+}
+.timeline > li {
+margin-bottom: 20px;
+position: relative;
+}
+.timeline > li:before,
+.timeline > li:after {
+  content: " ";
+  display: table;
+}
+.timeline > li:after {
+    clear: both;
+}
+.timeline > li:before,
+.timeline > li:after {
+  content: " ";
+  display: table;
+}
+.timeline > li:after {
+  clear: both;
+}
+.timeline > li > .timeline-panel {
+  width: 46%;
+  float: left;
+  background-color: #f2f2f2;
+  padding: 20px;
+  position: relative;
+}
+.timeline > li > .timeline-panel:before {
+  position: absolute;
+  top: 26px;
+  right: -15px;
+  display: inline-block;
+  border-top: 15px solid transparent;
+  border-left: 15px solid #ccc;
+  border-right: 0 solid #ccc;
+  border-bottom: 15px solid transparent;
+  content: " ";
+}
+.timeline > li > .timeline-panel:after {
+  position: absolute;
+  top: 27px;
+  right: -14px;
+  display: inline-block;
+  border-top: 14px solid transparent;
+  border-left: 14px solid #fff;
+  border-right: 0 solid #fff;
+  border-bottom: 14px solid transparent;
+  content: " ";
+}
+.timeline > li > .timeline-badge {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  margin-left: -25px;
+  background-color: #3c2886;
+  z-index: 100;
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+.timeline > li.timeline-inverted > .timeline-panel {
+  float: right;
+}
+.timeline > li.timeline-inverted > .timeline-panel:before {
+  border-left-width: 0;
+  border-right-width: 15px;
+  left: -15px;
+  right: auto;
+}
+.timeline > li.timeline-inverted > .timeline-panel:after {
+  border-left-width: 0;
+  border-right-width: 14px;
+  left: -14px;
+  right: auto;
+}
+.timeline-title {
+  font-family: "proxima-nova", sans-serif;
+  margin-top: 0;
+  color: #373737;
+  font-size: 18px;
+  line-height: 27px;
+}
+.timeline-date {
+  font-size: 14px;
+  color: #757575;
+}
+.divider {
+  width: 50px;
+  border-bottom: 3px solid #fcb814;
+  margin-bottom: 25px;
+}
+.timeline-body > p,
+.timeline-body > ul {
+  margin-bottom: 0;
+}
+.timeline-body > p + p {
+  margin-top: 5px;
+}
+
+@media (max-width: 767px) {
+  ul.timeline:before {
+    left: 40px;
+  }
+  ul.timeline > li > .timeline-panel {
+    width: calc(100% - 90px);
+    width: -moz-calc(100% - 90px);
+    width: -webkit-calc(100% - 90px);
+  }
+  ul.timeline > li > .timeline-badge {
+    left: 15px;
+    margin-left: 0;
+    top: 16px;
+  }
+  ul.timeline > li > .timeline-panel {
+    float: right;
+  }
+  ul.timeline > li > .timeline-panel:before {
+    border-left-width: 0;
+    border-right-width: 15px;
+    left: -15px;
+    right: auto;
+  }
+  ul.timeline > li > .timeline-panel:after {
+    border-left-width: 0;
+    border-right-width: 14px;
+    left: -14px;
+    right: auto;
   }
 }

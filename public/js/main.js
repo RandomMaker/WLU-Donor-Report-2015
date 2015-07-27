@@ -128,6 +128,6 @@ var options = {
     tooltipXPadding: 15,
     tooltipCornerRadius: 3
 }
-var ctx = document.getElementById("donorChart").getContext("2d");
+var ctx = document.getElementById("donor-chart").getContext("2d");
 var myDoughnutChart = new Chart(ctx).Doughnut(data,options);
-document.getElementById("donorChartLegend").innerHTML = myDoughnutChart.generateLegend();
+document.getElementById("donor-chart-legend").innerHTML = myDoughnutChart.generateLegend();

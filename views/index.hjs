@@ -40,7 +40,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">
+					<a class="navbar-brand" href="/">
 					<img class="logo img-responsive" src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo">
 					</a>
 				</div>
@@ -194,7 +194,7 @@
 						<div class="content">
 							<h3>Building Canada’s Best Business School</h3>
 							<p>Many generous donors are together Building Canada’s Best Business School. Their great generosity is supporting extraordinary students in the School of Business and Economics.</p>
-							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+							<a href="/building-canadas-best-business-school"><button class="btn btn-primary explore-button">MORE INFO</button></a>
 						</div>
 					</div>
 				</div>
@@ -352,8 +352,8 @@
 							<p>DONATION DESIGNATION AREAS</p>
 							<div class="number-divider">&nbsp;</div>
 						</div>
-						<canvas id="donorChart"></canvas>
-						<div id="donorChartLegend" class="chartLegend"></div>
+						<canvas id="donor-chart"></canvas>
+						<div id="donor-chart-legend" class="chart-legend"></div>
 					</div>
 				</div>
 			</div>
@@ -439,7 +439,7 @@
 				<div class="row">
 					<div class="footer-menu">
 						<ul class="footer-links">
-							<li><a href="#">HOME</a></li>
+							<li><a href="/">HOME</a></li>
 							<li id="impactMenu"><a href="#impact-title">IMPACT</a></li>
 							<li id="highlightsMenu"><a href="#highlights">HIGHLIGHTS</a></li>
 							<li id="numbersMenu"><a href="#theNumbers">THE NUMBERS</a></li>
