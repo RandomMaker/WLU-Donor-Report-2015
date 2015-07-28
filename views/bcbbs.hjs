@@ -99,7 +99,7 @@
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="" />
+									<img src="images/highlights/bcbbs-timeline-marsland.jpg" alt=""/>
 								</div>
 							</div>
 						</li>
@@ -112,7 +112,7 @@
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="" />
+									<img src="images/highlights/bcbbs-timeline-nationalbank.jpg" alt=""/>
 								</div>
 							</div>
 						</li>
@@ -125,7 +125,7 @@
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="" />
+									<img src="images/highlights/bcbbs-timeline-seatcampaign.jpg" alt=""/>
 								</div>
 							</div>
 						</li>
@@ -235,9 +235,6 @@
     		$(".moreText").hide();
     		function readMoreText() {
     			$(".fa-plus-circle").hide();
-    			$('.moreText').css({
-		        	"margin-top":"-35px"
-	    		});
     			$(".moreText").show();
     		}
 		</script>

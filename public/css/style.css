@@ -47,8 +47,7 @@ a:hover {
   font-weight: 200;
   text-align: center;
 }
-.yellow-
- {
+.yellow-divider {
   width: 75px;
   border-bottom: 3px solid #fcb814;
   margin: auto;
@@ -855,12 +854,16 @@ position: relative;
   border-bottom: 3px solid #fcb814;
   margin-bottom: 25px;
 }
-.timeline-body > p,
-.timeline-body > ul {
-  margin-bottom: 0;
+.timeline-body {
+  text-align: center;
 }
-.timeline-body > p + p {
-  margin-top: 5px;
+.timeline-body img {
+  max-width: 450px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 100%;
 }
 
 @media (max-width: 767px) {
