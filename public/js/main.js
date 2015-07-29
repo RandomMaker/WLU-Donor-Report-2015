@@ -28,26 +28,26 @@ $('#contactMenu, #contactFooter').magnificPopup({
 
 /* Scrolling Animation For Menu */
 $('.navbar #impactMenu, .footer-links #impactMenu').click(function(){
-	$('html, body').animate({
-	    scrollTop: $("#impact-title").offset().top - 115
-	}, 1000);
+    $('html, body').animate({
+        scrollTop: $("#impact-title").offset().top - 115
+    }, 1000);
 });
 $('.navbar #highlightsMenu, .footer-links #highlightsMenu').click(function(){
-	$('html, body').animate({
-	    scrollTop: $("#highlights").offset().top - 115
-	}, 1000);
+    $('html, body').animate({
+        scrollTop: $("#highlights").offset().top - 115
+    }, 1000);
 });
 $('.navbar #numbersMenu, .footer-links #numbersMenu').click(function(){
-	$('html, body').animate({
-	    scrollTop: $("#theNumbers").offset().top - 115
-	}, 1000);
+    $('html, body').animate({
+        scrollTop: $("#theNumbers").offset().top - 115
+    }, 1000);
 });
 
 /* Scrolling Animation For Header Area Arrow Scrolling */
 function impactAreasScroll(){
-	$('html, body').animate({
-	    scrollTop: $("#impact-title").offset().top - 115
-	}, 1000);
+    $('html, body').animate({
+        scrollTop: $("#impact-title").offset().top - 115
+    }, 1000);
 }
 
 /* Menu Scroll Transition */
@@ -55,18 +55,18 @@ var targetOffset = $("#impact-title").offset().top;
 var $w = $(window).scroll(function(){
     if ( $w.scrollTop() > targetOffset ) {   
         $('.navbar').css({
-        	"-webkit-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
-        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
-        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
-    	});
+            "-webkit-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+            "-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+            "box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+        });
     } else {
-     	if ( $w.scrollTop() < targetOffset ) {
-	      	$('.navbar').css({
-	      		"-webkit-box-shadow":"none",
-	        	"-moz-box-shadow":"none",
-	        	"box-shadow":"none"
-	      	});
-     	}
+        if ( $w.scrollTop() < targetOffset ) {
+            $('.navbar').css({
+                "-webkit-box-shadow":"none",
+                "-moz-box-shadow":"none",
+                "box-shadow":"none"
+            });
+        }
     }
 });
 
@@ -120,8 +120,9 @@ var options = {
     animateScale : true,
     legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<segments.length; i++){%><li><span style=\"background-color:<%=segments[i].fillColor%>\"></span><%if(segments[i].label){%><%=segments[i].label%><%}%></li><%}%></ul>",
     responsive: true,
-    tooltipTemplate: "<%if (label){%><%=label%>: $<%}%><%= value %>",
-	multiTooltipTemplate: "<%= value %>",
+    tooltipTemplateOne: "<%= label %>",
+    tooltipTemplateTwo: "$<%= value %>",
+    multiTooltipTemplate: "<%= value %>",
     tooltipFillColor: "rgba(55, 55, 55, 1)",
     scaleFontFamily: "'proxima-nova', sans-serif",
     tooltipFontSize: 12,

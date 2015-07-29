@@ -48,10 +48,10 @@
 					<ul class="nav navbar-nav">
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
-						<li id="impactMenu"><a href="#impact-title">IMPACT</a></li>
-						<li id="highlightsMenu"><a href="#highlights">HIGHLIGHTS</a></li>
-						<li id="numbersMenu"><a href="#theNumbers">THE NUMBERS</a></li>
-						<li id="contactMenu"><a href="#">CONTACT</a></li>
+						<li id="impactMenu"><a href="./#impact-title">IMPACT</a></li>
+						<li id="highlightsMenu"><a href="./#highlights">HIGHLIGHTS</a></li>
+						<li id="numbersMenu"><a href="./#theNumbers">THE NUMBERS</a></li>
+						<li id="contactMenu"><a href="./#">CONTACT</a></li>
 						<li><a href="https://web.wlu.ca/giving/" target="_blank"><button class="btn btn-primary give-button">GIVE NOW</button></a></li>
 					</ul>
 				</div>
