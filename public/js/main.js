@@ -50,6 +50,17 @@ function impactAreasScroll(){
     }, 1000);
 }
 
+/* Automatic Scrolling On Page Load */
+$(window).load(function() {
+    function goToByScroll(id){
+       jQuery('html,body').animate({scrollTop: $("#"+id).offset().top - 115},'slow');
+    }
+
+    if(window.location.hash != '') {
+        goToByScroll(window.location.hash.substr(1));
+    }
+});
+
 /* Menu Scroll Transition */
 var targetOffset = $("#impact").offset().top;
 var $w = $(window).scroll(function(){

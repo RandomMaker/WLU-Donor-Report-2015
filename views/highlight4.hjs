@@ -48,7 +48,7 @@
 					<ul class="nav navbar-nav">
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
-						<li id="impactMenu"><a href="./#impact-title">IMPACT</a></li>
+						<li id="impactMenu"><a href="./#impact">IMPACT</a></li>
 						<li id="highlightsMenu"><a href="./#highlights">HIGHLIGHTS</a></li>
 						<li id="numbersMenu"><a href="./#theNumbers">THE NUMBERS</a></li>
 						<li id="contactMenu"><a href="./#">CONTACT</a></li>
@@ -94,7 +94,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">The Marsland family donates $1 million to the Laurier Startup Fund and the construction of the new home of Laurier’s School of Business & Economics</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">The Marsland family donates $1 million to the Laurier Startup Fund and the construction of the new home of Laurier’s School of Business & Economics</a></h4>
 									<p class="timeline-date">September 23, 2014</p>
 									<div class="divider"></div>
 								</div>
@@ -107,7 +107,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">The National Bank of Canada donates $200,000 in support of entrepreneurship education and the Launchpad program</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">The National Bank of Canada donates $200,000 in support of entrepreneurship education and the Launchpad program</a></h4>
 									<p class="timeline-date">October, 2014</p>
 									<div class="divider"></div>
 								</div>
@@ -120,7 +120,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building</a></h4>
 									<p class="timeline-date">November 10, 2014</p>
 									<div class="divider"></div>
 								</div>
@@ -133,7 +133,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">Alumni launch class giving campaigns. By joining together with other members of their graduating classes, alumni can be part of the historic campaign</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">Alumni launch class giving campaigns. By joining together with other members of their graduating classes, alumni can be part of the historic campaign</a></h4>
 									<p class="timeline-date">December, 2014</p>
 									<div class="divider"></div>
 								</div>
@@ -146,7 +146,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">Laurier graduate Bill Webb (BBA ‘86) and his wife Dr. Agnes Wong donate $1-million to support the construciton of the new SBE building</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">Laurier graduate Bill Webb (BBA ‘86) and his wife Dr. Agnes Wong donate $1-million to support the construciton of the new SBE building</a></h4>
 									<p class="timeline-date">January 9, 2015</p>
 									<div class="divider"></div>
 								</div>
@@ -159,7 +159,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">The Co-operators donates $100,000 to support the study of alternative governance models</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">The Co-operators donates $100,000 to support the study of alternative governance models</a></h4>
 									<p class="timeline-date">January 22, 2015</p>
 									<div class="divider"></div>
 								</div>
@@ -172,7 +172,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">CN donates $500,000 to support research and education at the Centre for Supply Chain Management</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">CN donates $500,000 to support research and education at the Centre for Supply Chain Management</a></h4>
 									<p class="timeline-date">March 19, 2015</p>
 									<div class="divider"></div>
 								</div>
@@ -185,7 +185,7 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title">Mike Lazaridis and Ontario government contribute $35m to create world-class management institute</h4>
+									<h4 class="timeline-title"><a href="#" target="_blank">Mike Lazaridis and Ontario government contribute $35m to create world-class management institute</a></h4>
 									<p class="timeline-date">April 23, 2015</p>
 									<div class="divider"></div>
 								</div>
@@ -205,9 +205,9 @@
 					<div class="footer-menu">
 						<ul class="footer-links">
 							<li><a href="/">HOME</a></li>
-							<li id="impactMenu"><a href="#impact-title">IMPACT</a></li>
-							<li id="highlightsMenu"><a href="#highlights">HIGHLIGHTS</a></li>
-							<li id="numbersMenu"><a href="#theNumbers">THE NUMBERS</a></li>
+							<li id="impactMenu"><a href="./#impact">IMPACT</a></li>
+							<li id="highlightsMenu"><a href="./#highlights">HIGHLIGHTS</a></li>
+							<li id="numbersMenu"><a href="./#theNumbers">THE NUMBERS</a></li>
 							<li id="contactFooter"><a href="#">CONTACT</a></li>
 							<li class="last"><a href="https://web.wlu.ca/giving/" target="_blank">GIVE</a></li>
 						</ul>

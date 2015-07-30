@@ -744,7 +744,7 @@ div.clear {
   text-align: right;
 }
 
-/* TIMELINE STYLING */
+/* TIMELINE SPECIFIC STYLING */
 .bcbbs-timeline h2 {
   text-align: center;
   margin-top: 40px;
@@ -798,8 +798,8 @@ position: relative;
   right: -15px;
   display: inline-block;
   border-top: 15px solid transparent;
-  border-left: 15px solid #ccc;
-  border-right: 0 solid #ccc;
+  border-left: 15px solid #f2f2f2;
+  border-right: 0 solid #f2f2f2;
   border-bottom: 15px solid transparent;
   content: " ";
 }
@@ -809,8 +809,8 @@ position: relative;
   right: -14px;
   display: inline-block;
   border-top: 14px solid transparent;
-  border-left: 14px solid #fff;
-  border-right: 0 solid #fff;
+  border-left: 14px solid #f2f2f2;
+  border-right: 0 solid #f2f2f2;
   border-bottom: 14px solid transparent;
   content: " ";
 }
@@ -850,6 +850,13 @@ position: relative;
   color: #373737;
   font-size: 18px;
   line-height: 27px;
+}
+.timeline-title a {
+  text-decoration: none;
+  color: #373737;
+}
+.timeline-title a:hover {
+  text-decoration: underline;
 }
 .timeline-date {
   font-size: 14px;
