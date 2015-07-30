@@ -29,7 +29,7 @@ $('#contactMenu, #contactFooter').magnificPopup({
 /* Scrolling Animation For Menu */
 $('.navbar #impactMenu, .footer-links #impactMenu').click(function(){
     $('html, body').animate({
-        scrollTop: $("#impact-title").offset().top - 115
+        scrollTop: $("#impact").offset().top - 115
     }, 1000);
 });
 $('.navbar #highlightsMenu, .footer-links #highlightsMenu').click(function(){
@@ -46,12 +46,12 @@ $('.navbar #numbersMenu, .footer-links #numbersMenu').click(function(){
 /* Scrolling Animation For Header Area Arrow Scrolling */
 function impactAreasScroll(){
     $('html, body').animate({
-        scrollTop: $("#impact-title").offset().top - 115
+        scrollTop: $("#impact").offset().top - 115
     }, 1000);
 }
 
 /* Menu Scroll Transition */
-var targetOffset = $("#impact-title").offset().top;
+var targetOffset = $("#impact").offset().top;
 var $w = $(window).scroll(function(){
     if ( $w.scrollTop() > targetOffset ) {   
         $('.navbar').css({
@@ -76,7 +76,7 @@ var data = [
         value: 2371757,
         color:"#3c2886",
         highlight: "#31206C",
-        label: "Program Development"
+        label: "Academic Program Development"
     },
     {
         value: 1882834,
@@ -88,25 +88,19 @@ var data = [
         value: 583625,
         color: "#e87722",
         highlight: "#CE6A1E",
-        label: "Student Life"
+        label: "Beyond the Classroom"
     },
     {
-        value: 15975,
-        color: "#00a3e0",
-        highlight: "#0090C6",
-        label: "Equipment"
-    },
-    {
-        value: 1387233,
+        value: 1403208,
         color: "#fcb814",
         highlight: "#E2A512",
-        label: "Buildings and Facilities"
+        label: "Learning and Study Space"
     },
     {
         value: 1387233,
         color: "#ef4639",
         highlight: "#D53F33",
-        label: "Scholarships and Awards"
+        label: "Student Financial Support"
     }
 ]
 var options = {

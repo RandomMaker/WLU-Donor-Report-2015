@@ -48,7 +48,7 @@
 					<ul class="nav navbar-nav">
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
-						<li id="impactMenu"><a href="#impact-title">IMPACT</a></li>
+						<li id="impactMenu"><a href="#impact">IMPACT</a></li>
 						<li id="highlightsMenu"><a href="#highlights">HIGHLIGHTS</a></li>
 						<li id="numbersMenu"><a href="#theNumbers">THE NUMBERS</a></li>
 						<li id="contactMenu"><a href="#">CONTACT</a></li>
@@ -77,7 +77,7 @@
 				</div>
 		</header>
 		<!-- Areas of Impact -->
-		<div id="impact-title">
+		<div id="impact">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 title">
@@ -440,7 +440,7 @@
 					<div class="footer-menu">
 						<ul class="footer-links">
 							<li><a href="/">HOME</a></li>
-							<li id="impactMenu"><a href="#impact-title">IMPACT</a></li>
+							<li id="impactMenu"><a href="#impact">IMPACT</a></li>
 							<li id="highlightsMenu"><a href="#highlights">HIGHLIGHTS</a></li>
 							<li id="numbersMenu"><a href="#theNumbers">THE NUMBERS</a></li>
 							<li id="contactFooter"><a href="#">CONTACT</a></li>
