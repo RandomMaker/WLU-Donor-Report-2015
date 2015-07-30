@@ -59,20 +59,34 @@
 			</div>
 		</nav>
 		<!-- Information Header -->
-		<header class="info-header">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<header class="info-header">
 						<span><a href="/">Home</a> &nbsp; > &nbsp; Impact</span>
 						<h3>Number 1</h3>
 						<h1>John and Pattie Cleghorn Help Students Explore Canada’s Battlefields</h1>
+					</header>
+				</div>
+			</div>
+		</div>
+		<!-- Story Container -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="story-container">
+						<img src="images/impact/impact1-MoulinMorinNormandy.jpg" class="left-image" alt="Moulin Morin Normandy"/>
+						<p class="first">Matt Baker is one of the hundreds of Laurier students who have explored the Canadian battlefield sites in Europe, thanks to the generosity of John and Pattie Cleghorn.</p>
+						<p>“My Cleghorn battlefield tour was, without a doubt, the most rewarding part of graduate school,” says Matt. “Touring the battle sites and cemeteries with other students was both exhausting and exhilarating. We were able to reach out and touch events that we had previously only read about. Everyone, including me, really poured their heart into the experience.”</p>
+						<p>John Cleghorn, a former chancellor of Wilfrid Laurier University, has given more than $1 million to the Laurier Centre for Strategic Military and Disarmament Studies (LCMSDS) to support battlefield tours and the centre's extensive research and publication activities. John was inspired after attending several lectures given by Terry Copp, Laurier’s renowned professor of military history and former director of the military centre.</p>
+						<h4 class="spotlight">He was fascinated by Copp’s historical research</h4>
+						<p>He was fascinated by Copp’s historical research, which was significantly shifting traditional assumptions about Canada’s role in the two world wars. With the help of the military centre’s maps and guidebooks, Cleghorn and his wife, Pattie, visited the battlefields and cemeteries for the first time in 2000.</p>
+						<img src="images/impact/impact1-Vimy.jpg" class="right-image" alt="Vimy"/>
+						<p>“With Terry Copp’s work we were able to see – front and centre – the extent of the skill, courage and sacrifices of the Canadian troops, as well as the tragic end in the cemeteries for so many of them,” says John. “It was highly moving.”</p>
+						<p>The Cleghorns decided to share their experience with Laurier’s students through their generous battlefield tour fund. Their gift has helped LCMSDS become the leading centre of military history in Canada. The Cleghorn tour support has also reached high school teachers, empowering them to teach these important chapters of Canadian history with greater passion and insight.</p>
 					</div>
 				</div>
 			</div>
-		</header>
-		<!-- Story Container -->
-		<div class="story-container">
-			
 		</div>
 		<!-- Footer -->
 		<footer id="footer">
