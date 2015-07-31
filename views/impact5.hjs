@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Education Graduate Stays Connected - Donor Impact Report</title>
+		<link rel="shortcut icon" href="favicon.ico" />
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!-- Adobe TypeKit -->
+		<script src="//use.typekit.net/yfj6jry.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		<!-- Donor Report Styling -->
+		<link href="css/style.css" rel="stylesheet">
+		<!-- Magnific Popup CSS -->
+		<link href="css/magnific-popup.css" rel="stylesheet">
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		<!-- Custom Fonts For Statistics -->
+		<link href="css/font.css" rel="stylesheet">
+		<!--[if lt IE 8]><!-->
+		<link href="ie7/ie7.css" rel="stylesheet">
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<!--<![endif]-->
+	</head>
+	<body>
+		<!-- Navbar -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/">
+					<img class="logo img-responsive" src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo">
+					</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li id="impactMenu"><a href="./#impact">IMPACT</a></li>
+						<li id="highlightsMenu"><a href="./#highlights">HIGHLIGHTS</a></li>
+						<li id="numbersMenu"><a href="./#theNumbers">THE NUMBERS</a></li>
+						<li id="contactMenu"><a href="./#">CONTACT</a></li>
+						<li><a href="https://web.wlu.ca/giving/" target="_blank"><button class="btn btn-primary give-button">GIVE NOW</button></a></li>
+					</ul>
+				</div>
+				<!--/.nav-collapse -->
+			</div>
+		</nav>
+		<!-- Information Header -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<header class="info-header">
+						<span><a href="/">Home</a> &nbsp; > &nbsp; Impact > &nbsp; Beyond the Classroom</span>
+						<h3>Number 5</h3>
+						<h1>Education Graduate Stays Connected</h1>
+					</header>
+				</div>
+			</div>
+		</div>
+		<!-- Story Container -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="story-container">
+						<img src="images/impact/impact5-marie1.jpg" class="left-image tall-image" alt="Marie-Helene Speaking"/>
+						<p class="first">For Marie-Helene Colaiezzi (BA ’07, BEd ’08), her love of Laurier began when she was first looking for the perfect university. “I’m from a smaller town and Laurier immediately felt like home,” says Marie-Helene. “I love that it was, and is still, a smaller, more intimate campus. The small class sizes, students being more than a number, the volunteer opportunities and the amazing professors and the relationships you build with them. Laurier has everything I was looking for and it lived up to my expectations.”</p>
+						<p>A part of the first cohort to graduate from Laurier’s Faculty of Education and a committed alumni donor, Marie-Helene credits her professional successes to the Bachelor of Education program’s unique structure. “Through the program we work with a school two days a week all year, and then also do our placements there. This is unique and it allows teaching students to build a strong rapport with the school, the host teachers and the students. We become a part of the school life, participating in extra-curricular activities and collaborating on projects. It really sets us up for success on placements and beyond.”</p>
+						<img src="images/impact/impact5-marie2.jpg" class="right-image tall-image" alt="Marie-Helene Portrait"/>
+						<h4 class="spotlight">Since graduating, Marie-Helene has found a number of ways to stay connected to the Laurier community</h4>
+						<p>Since graduating, Marie-Helene has found a number of ways to stay connected to the Laurier community. “My financial gift isn’t huge, but I enjoy also giving my time, through the WLUAA [Wilfrid Laurier University Alumni Association] Board of Directors, alumni events, career nights and other activities. I enjoy being back on campus—the nostalgia, yes, but also how much the campus has continued to change excites me. I love the buzz of hearing and seeing the students, of finding opportunities to share my story about finding a job in the community and helping answer their questions of ‘what happens now?’”</p>
+						<p>“I’m a part of the Waterloo community. I’m not from Waterloo—I don’t have a growing up connection. My connection is my post-secondary experience at Laurier, and it was a great experience. So my roots in the community started through Laurier, and it just makes sense to give back to Laurier any way I can to foster and build up my community as a whole.”</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="footer-menu">
+						<ul class="footer-links">
+							<li><a href="/">HOME</a></li>
+							<li id="impactMenu"><a href="./#impact">IMPACT</a></li>
+							<li id="highlightsMenu"><a href="./#highlights">HIGHLIGHTS</a></li>
+							<li id="numbersMenu"><a href="./#theNumbers">THE NUMBERS</a></li>
+							<li id="contactFooter"><a href="#">CONTACT</a></li>
+							<li class="last"><a href="https://web.wlu.ca/giving/" target="_blank">GIVE</a></li>
+						</ul>
+					</div>
+					<div class="social-links">
+						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- JavaScript Files -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/magnific-popup.js"></script>
+		<script src="js/Chart.min.js"></script>
+		<script src="js/main.js"></script>
+		<script>
+			$('.navbar').css({
+	        	"-webkit-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+	        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+	        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+    		});
+    		$(".moreText").hide();
+    		function readMoreText() {
+    			$(".fa-plus-circle").hide();
+    			$(".moreText").show();
+    		}
+		</script>
+	</body>
+</html>

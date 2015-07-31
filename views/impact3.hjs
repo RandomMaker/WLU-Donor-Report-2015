@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Graduate Students Create A Room Of Their Own  - Donor Impact Report</title>
+		<link rel="shortcut icon" href="favicon.ico" />
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!-- Adobe TypeKit -->
+		<script src="//use.typekit.net/yfj6jry.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		<!-- Donor Report Styling -->
+		<link href="css/style.css" rel="stylesheet">
+		<!-- Magnific Popup CSS -->
+		<link href="css/magnific-popup.css" rel="stylesheet">
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		<!-- Custom Fonts For Statistics -->
+		<link href="css/font.css" rel="stylesheet">
+		<!--[if lt IE 8]><!-->
+		<link href="ie7/ie7.css" rel="stylesheet">
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<!--<![endif]-->
+	</head>
+	<body>
+		<!-- Navbar -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="/">
+					<img class="logo img-responsive" src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo">
+					</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li id="impactMenu"><a href="./#impact">IMPACT</a></li>
+						<li id="highlightsMenu"><a href="./#highlights">HIGHLIGHTS</a></li>
+						<li id="numbersMenu"><a href="./#theNumbers">THE NUMBERS</a></li>
+						<li id="contactMenu"><a href="./#">CONTACT</a></li>
+						<li><a href="https://web.wlu.ca/giving/" target="_blank"><button class="btn btn-primary give-button">GIVE NOW</button></a></li>
+					</ul>
+				</div>
+				<!--/.nav-collapse -->
+			</div>
+		</nav>
+		<!-- Information Header -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<header class="info-header">
+						<span><a href="/">Home</a> &nbsp; > &nbsp; Impact > &nbsp; Learning and Study Space</span>
+						<h3>Number 3</h3>
+						<h1>Graduate Students Create A Room Of Their Own </h1>
+					</header>
+				</div>
+			</div>
+		</div>
+		<!-- Story Container -->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="story-container">
+						<img src="images/impact/impact3-gsalounge1.jpg" class="left-image wide-image" alt="Graduates In The GSA Lounge"/>
+						<p class="first">Graduate students hold a unique position on post-secondary campuses. They take on the roles of students, staff and/or faculty members, and sometimes they can feel like they don’t really have a place where they “fit.”</p>
+						<h4 class="spotlight">Graduate students hold a unique position on post-secondary campuses</h4>
+						<p>To ensure graduate students feel appreciated and valued, Wilfrid Laurier University, the Faculty of Graduate and Postdoctoral Studies and the Graduate Students’ Association (GSA) have worked diligently to provide non-academic spaces specifically for graduate students on our campuses. Most recently, this was achieved through the GSA’s gift to fund a new Graduate Student Lounge at Laurier Brantford.</p>
+						<p>“The GSA felt it was important to provide community space for our Brantford graduate students to relax, network and host events,” says Ellen Menage, executive director of Laurier’s GSA. “It’s a way to foster community and to reiterate the important role graduate students play at Laurier.”</p>
+						<p>To bring the lounge to life, the GSA and Laurier Brantford graduate students met in the pre-renovated space in the Odeon basement. There they held discussions and focus groups in order to build a space that suited the needs of Brantford’s graduate students.</p>
+						<img src="images/impact/impact3-gsalounge2.jpg" class="right-image wide-image" alt="The New GSA Lounge"/>
+						<h4 class="spotlight">“They wanted it to feel loungey,”</h4>
+						<p>“They wanted it to feel loungey,” says Ellen. “The space already had a kitchenette and they were happy to have that, but they also wanted comfortable seating, open spaces and lockers for their personal items.”</p>
+						<p>With overstuffed chairs, a bank of lockers and tables for more formal events, it seems the GSA has delivered on the students’ desires. Ellen concludes, “It’s multi-functional, and designed by the students for the students. They now have a space for them to engage and connect. They are comfortable being themselves in this space... It’s a space where they belong.”</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="footer-menu">
+						<ul class="footer-links">
+							<li><a href="/">HOME</a></li>
+							<li id="impactMenu"><a href="./#impact">IMPACT</a></li>
+							<li id="highlightsMenu"><a href="./#highlights">HIGHLIGHTS</a></li>
+							<li id="numbersMenu"><a href="./#theNumbers">THE NUMBERS</a></li>
+							<li id="contactFooter"><a href="#">CONTACT</a></li>
+							<li class="last"><a href="https://web.wlu.ca/giving/" target="_blank">GIVE</a></li>
+						</ul>
+					</div>
+					<div class="social-links">
+						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- JavaScript Files -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/magnific-popup.js"></script>
+		<script src="js/Chart.min.js"></script>
+		<script src="js/main.js"></script>
+		<script>
+			$('.navbar').css({
+	        	"-webkit-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+	        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+	        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
+    		});
+    		$(".moreText").hide();
+    		function readMoreText() {
+    			$(".fa-plus-circle").hide();
+    			$(".moreText").show();
+    		}
+		</script>
+	</body>
+</html>

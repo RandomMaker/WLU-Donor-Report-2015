@@ -236,6 +236,9 @@
     		function readMoreText() {
     			$(".fa-plus-circle").hide();
     			$(".moreText").show();
+    			$('.moreText').css({
+    				"margin-top":"-35px"
+    			});
     		}
 		</script>
 	</body>

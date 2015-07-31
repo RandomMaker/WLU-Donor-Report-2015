@@ -104,14 +104,14 @@
 						<div class="impact-story research-award">
 							<h4>Research Excellence</h4>
 							<h3>Ira Gluskin Supports Award-Winning Research</h3>
-							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
+							<a href="/research-excellence"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="impact-story gsa-lounge">
 							<h4>Learning and Study Space</h4>
 							<h3>Graduate Students Create A Room Of Their Own </h3>
-							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
+							<a href="/learning-and-study-space"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -126,14 +126,14 @@
 						<div class="impact-story thompson-music">
 							<h4>Student Financial Support</h4>
 							<h3>William Thompson Inspires Music in Our Community </h3>
-							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
+							<a href="/student-financial-support"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="impact-story graduate-connected">
 							<h4>Beyond The Classroom</h4>
 							<h3>Education Graduate Stays Connected</h3>
-							<a href="#"><button class="btn btn-primary explore-button">READ MORE</button></a>
+							<a href="/beyond-the-classroom"><button class="btn btn-primary explore-button">READ MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -159,7 +159,7 @@
 						<div class="content">
 							<h3>Foundation renews support</h3>
 							<p>The Lyle S. Hallman foundation is ensuring that Laurier students will continue to benefit from a unique educational experience.</p>
-							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+							<a href="/foundation-renews-support"><button class="btn btn-primary explore-button">MORE INFO</button></a>
 						</div>
 					</div>
 				</div>
@@ -168,7 +168,7 @@
 						<div class="content">
 							<h3>Entrepreneurship gets a boost</h3>
 							<p>A $500,000 grant from the J.W. McConnell Family Foundation will support social entrepreneurship at Laurier’s Waterloo, Kitchener and Brantford locations.</p>
-							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+							<a href="/entrepreneurship-gets-a-boost"><button class="btn btn-primary explore-button">MORE INFO</button></a>
 						</div>
 					</div>
 				</div>
@@ -185,7 +185,7 @@
 						<div class="content">
 							<h3>Momentum builds for Brantford YMCA</h3>
 							<p>Donors have made numerous generous contributions to the health and vitality of Brantford and Laurier.</p>
-							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+							<a href="/momentum-builds-for-brantford-ymca"><button class="btn btn-primary explore-button">MORE INFO</button></a>
 						</div>
 					</div>
 				</div>
@@ -211,7 +211,7 @@
 						<div class="content">
 							<h3>2015 Laurier Society Philanthropy Awards</h3>
 							<p>Laurier celebrated donors Ian and Hilay McLean and Barry Schneider ’65 for their leadership and support of Laurier in its mission.</p>
-							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+							<a href="/2015-laurier-society-philanthropy-awards"><button class="btn btn-primary explore-button">MORE INFO</button></a>
 						</div>
 					</div>
 				</div>
@@ -220,7 +220,7 @@
 						<div class="content">
 							<h3>AFP Philanthropists of the Year</h3>
 							<p>Laurier’s generous donors were recognized by the Golden Horseshoe Chapter of the Association for Fundraising Professionals.</p>
-							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+							<a href="/afp-philanthropists-of-the-year"><button class="btn btn-primary explore-button">MORE INFO</button></a>
 						</div>
 					</div>
 				</div>
@@ -237,7 +237,7 @@
 						<div class="content">
 							<h3>Imagine Canada</h3>
 							<p>Laurier is the first university in Canada to receive accreditation from Imagine Canada.</p>
-							<a href="#"><button class="btn btn-primary explore-button">MORE INFO</button></a>
+							<a href="/imagine-canada"><button class="btn btn-primary explore-button">MORE INFO</button></a>
 						</div>
 					</div>
 				</div>
