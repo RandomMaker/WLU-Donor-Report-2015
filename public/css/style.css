@@ -312,53 +312,107 @@ div.clear {
   background-color: #f2f2f2;
   padding: 40px 0px 40px 0px;
 }
-.impact-story {
-  color: #FFFFFF;
-  height: 250px;
-  max-width: 350px;
-  margin: auto;
+#impact-areas a:hover {
+  text-decoration: none;
+}
+#impact-areas .impact-story {
+  color: #373737;
+  height: 200px;
+  max-width: 490px;
   overflow: hidden;
-  position: relative;
   border-radius: 3px 3px 3px 3px;
   -moz-border-radius: 3px 3px 3px 3px;
   -webkit-border-radius: 3px 3px 3px 3px;
   border: 0px solid #000000;
+  background-color: #000000;
+  text-align: center;
+  position: relative;
 }
-.impact-story h4 {
-  font-size: 16px;
+#impact-areas .impact-story h3 {
+  position: absolute;
+  color: #FFFFFF;
+  width: 100%;
   font-family: "proxima-nova", sans-serif;
-  font-weight: 600;
-  margin: 0;
-  padding: 25px 25px 0px 25px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 80px;
 }
-.impact-story h3 {
-  font-size: 22px;
-  line-height: 33px;
-  margin: 0;
-  padding: 15px 25px 0px 25px;
+#impact-areas .impact-story h1 {
+  position: absolute;
+  color: #FFFFFF;
+  width: 100%;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 500;
+  margin-top: 85px;
+}
+#impact-areas .margin-right {
+  margin-left: auto;
 }
 
-/* Background Images */
-.battlefield-tour {
+/* Impact Background Images */
+#impact-areas .impact-story .battlefield-tour {
   background: url('../images/impact/battlefield-tour-impact.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
 }
-.research-award {
+#impact-areas .impact-story .battlefield-tour:hover {
+  -webkit-transform: scale(1.1, 1.1);
+  -moz-transform: scale(1.1, 1.1);
+  -ms-transform: scale(1.1, 1.1);
+  -o-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+  -webkit-transition: 1.25s ease-out;
+  -moz-transition: 1.25s ease-out;
+  -o-transition: 1.25s ease-out;
+  -ms-transition: 1.25s ease-out;
+  transition: 1.25s ease-out;
+}
+#impact-areas .impact-story .research-award {
   background: url('../images/impact/research-award-impact.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
 }
-.gsa-lounge {
+#impact-areas .impact-story .research-award:hover {
+  -webkit-transform: scale(1.1, 1.1);
+  -moz-transform: scale(1.1, 1.1);
+  -ms-transform: scale(1.1, 1.1);
+  -o-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+  -webkit-transition: 1.25s ease-out;
+  -moz-transition: 1.25s ease-out;
+  -o-transition: 1.25s ease-out;
+  -ms-transition: 1.25s ease-out;
+  transition: 1.25s ease-out;
+}
+#impact-areas .impact-story .gsa-lounge {
   background: url('../images/impact/gsa-lounge-impact.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+#impact-areas .impact-story .gsa-lounge:hover {
+  -webkit-transform: scale(1.1, 1.1);
+  -moz-transform: scale(1.1, 1.1);
+  -ms-transform: scale(1.1, 1.1);
+  -o-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+  -webkit-transition: 1.25s ease-out;
+  -moz-transition: 1.25s ease-out;
+  -o-transition: 1.25s ease-out;
+  -ms-transition: 1.25s ease-out;
+  transition: 1.25s ease-out;
 }
 .thompson-music {
   background: url('../images/impact/thompson-music-impact.jpg');
@@ -486,13 +540,8 @@ div.clear {
 
 @media (max-width: 992px){
   .highlight-story {
-    max-width: 500px;
+    max-width: 400px;
     margin-bottom: 25px;
-  }
-}
-@media (max-width: 480px) {
-  .highlight-story {
-    height: 335px;
   }
 }
 

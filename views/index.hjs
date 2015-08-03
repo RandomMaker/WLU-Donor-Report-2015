@@ -93,25 +93,22 @@
 			<!-- Row 1 -->
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
-						<div class="impact-story battlefield-tour">
-							<h4>Academic Program Development</h4>
-							<h3>John and Pattie Cleghorn Help Students Explore Canada’s Battlefields</h3>
-							<a href="/academic-program-development"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+					<div class="col-md-6">
+						<div class="impact-story margin-right">
+							<a href="/academic-program-development">
+								<div class="battlefield-tour"></div>
+								<h3>Academic Program Development</h3>
+								<h1>John and Pattie Cleghorn Help Students <br /> Explore Canada’s Battlefields</h1>
+							</a>
 						</div>
 					</div>
-					<div class="col-md-4">
-						<div class="impact-story research-award">
-							<h4>Research Excellence</h4>
-							<h3>Ira Gluskin Supports Award-Winning Research</h3>
-							<a href="/research-excellence"><button class="btn btn-primary readMore-button">READ MORE</button></a>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="impact-story gsa-lounge">
-							<h4>Learning and Study Space</h4>
-							<h3>Graduate Students Create A Room Of Their Own</h3>
-							<a href="/learning-and-study-space"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+					<div class="col-md-6">
+						<div class="impact-story">
+							<a href="/research-excellence">
+								<div class="research-award"></div>
+								<h3>Research Excellence</h3>
+								<h1>Ira Gluskin Supports <br /> Award-Winning Research</h1>
+							</a>
 						</div>
 					</div>
 				</div>
@@ -122,21 +119,28 @@
 			<!-- Row 2 -->
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4 col-md-offset-2">
-						<div class="impact-story thompson-music">
-							<h4>Student Financial Support</h4>
-							<h3>William Thompson Inspires Music in Our Community </h3>
-							<a href="/student-financial-support"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+					<div class="col-md-6">
+						<div class="impact-story margin-right">
+							<a href="/learning-and-study-space">
+								<div class="battlefield-tour"></div>
+								<h3>Learning and Study Space</h3>
+								<h1>Graduate Students Create A <br /> Room Of Their Own</h1>
+							</a>
 						</div>
 					</div>
-					<div class="col-md-4">
-						<div class="impact-story graduate-connected">
-							<h4>Beyond The Classroom</h4>
-							<h3>Education Graduate Stays Connected</h3>
-							<a href="/beyond-the-classroom"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+					<div class="col-md-6">
+						<div class="impact-story">
+							<a href="/student-financial-support">
+								<div class="research-award"></div>
+								<h3>Student Financial Support</h3>
+								<h1>William Thompson Inspires Music in Our Community</h1>
+							</a>
 						</div>
 					</div>
 				</div>
+			</div>
+			<div class="spacer">
+				&nbsp;
 			</div>
 		</div>
 		<!-- End Areas Of Impact -->
@@ -193,7 +197,7 @@
 				<div class="col-md-4">
 					<div class="highlight-story philanthropy">
 						<h4>2015 Laurier Society Philanthropy Awards</h4>
-						<h3>Laurier celebrated donors Ian and Hilay McLean and Barry Schneider ’65</h3>
+						<h3>Laurier celebrated donors Ian and Hilary McLean and Barry Schneider ’65</h3>
 						<a href="/2015-laurier-society-philanthropy-awards"><button class="btn btn-primary readMore-button">READ MORE</button></a>
 					</div>
 				</div>

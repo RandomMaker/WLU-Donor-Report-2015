@@ -80,6 +80,23 @@ var $w = $(window).scroll(function(){
     }
 });
 
+/* Homepage Impact Animations */
+$( ".impact-story h1" ).hide();
+$( ".impact-story" ).hover(
+    function() {
+        $( ".impact-story h1" ).fadeIn( 500 );
+        $('.impact-story h3').animate({
+            "margin-top":"52px"
+        });
+    }, 
+    function () {
+        $( ".impact-story h1" ).hide();
+        $('.impact-story h3').animate({
+            "margin-top":"80px"
+        });
+    }
+);
+
 /* Donor Doughnut Chart */
 var data = [
     {
