@@ -63,8 +63,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<header class="info-header">
-						<span><a href="/">Home</a> &nbsp; > &nbsp; Impact > &nbsp; Student Financial Support</span>
-						<h3>Number 4</h3>
+						<span><a href="/">Home</a> &nbsp; > &nbsp; <a href="./#impact">Impact</a> > &nbsp; Student Financial Support</span>
 						<h1>William Thompson Inspires Music in Our Community</h1>
 					</header>
 				</div>
@@ -79,7 +78,7 @@
 						<p class="first">Sam Bibby is in his third year of an Honours music degree in voice performance. It is his dream to earn a master’s degree and then become a teacher so he can “further pursue my love of music and start to bring that passion to other people.”</p>
 						<h4 class="spotlight">"pursue my love of music and start to bring that passion to other people"</h4>
 						<p>Sam is a grateful recipient of one of two scholarships created by Laurier alumnus, William Thompson (BMus '87). These awards are designed to support senior music students with strong academic achievement and vision for the future of music in our communities. William has funded one scholarship since 2009 and doubled his support in 2014. The other recipient of the William Thompson Scholarship was Alexandrea Jonker.</p>
-						<h4 class="spotlight">The experience has given him inspiration and insight into the challenges and opportunities of his teaching aspirations</h4>
+						<h4 class="spotlight">"I plan to… become a professor so I can shape the lives of young musicians as mine has been shaped"</h4>
 						<p>Alexandrea divided her scholarship money, allocating half to her tuition and the other half towards buying a new soprano saxophone. As she concludes her studies at Laurier, she is looking to continue her education to earn a master’s and PhD. “I plan to… become a professor so I can shape the lives of young musicians as mine has been shaped in the short four years I have been at Laurier,” she says.</p>
 						<img src="images/impact/impact4-wlumusic.jpg" class="right-image wide-image" alt="Wilfrid Laurier University Music"/>
 						<p>William’s financial support allowed Sam to volunteer at schools in his home town of Guelph instead of working part-time. The experience has given him inspiration and insight into the challenges and opportunities of his teaching aspirations.</p>
@@ -104,9 +103,10 @@
 						</ul>
 					</div>
 					<div class="social-links">
-						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://twitter.com/LaurierAlumni" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/LaurierAlumni" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/laurieralumni/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.linkedin.com/grp/home?gid=122980&trk=my_groups-tile-flipgrp" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 					</div>
 				</div>
 			</div>
@@ -123,11 +123,6 @@
 	        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
 	        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
     		});
-    		$(".moreText").hide();
-    		function readMoreText() {
-    			$(".fa-plus-circle").hide();
-    			$(".moreText").show();
-    		}
 		</script>
 	</body>
 </html>

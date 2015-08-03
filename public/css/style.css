@@ -679,6 +679,11 @@ div.clear {
   -ms-transition: all 0.5s ease 0s;
 }
 
+@media (max-width: 1024px){
+  #footer .footer-links li {
+    margin-right: 25px;
+  }
+}
 @media (max-width: 768px){
   footer {
     display: none;
@@ -900,12 +905,6 @@ position: relative;
   padding: 25px 0px 25px 0px;
   max-width: 900px;
   margin: 110px auto auto auto;
-}
-.info-header h3 {
-  color: #757575;
-  font-size: 18px;
-  font-family: "proxima-nova", sans-serif;
-  margin-bottom: 0px;
 }
 .info-header h1 {
   margin-top: 5px;

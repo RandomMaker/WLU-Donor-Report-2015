@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Imagine Canada - Donor Impact Report</title>
+		<title>Laurier receives accreditation from Imagine Canada - Donor Impact Report</title>
 		<link rel="shortcut icon" href="favicon.ico" />
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -63,9 +63,8 @@
 			<div class="row">
 				<div class="col-md-12">
 					<header class="info-header">
-						<span><a href="/">Home</a> &nbsp; > &nbsp; Highlights</span>
-						<h3>Number 7</h3>
-						<h1>Education Graduate Stays Connected</h1>
+						<span><a href="/">Home</a> &nbsp; > &nbsp; <a href="./#highlights">Highlights</a></span>
+						<h1>Laurier receives accreditation from Imagine Canada</h1>
 					</header>
 				</div>
 			</div>
@@ -75,7 +74,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="story-container">
-						<img src="images/highlights/highlight7-imagine.jpg" class="left-image wide-image" alt="Imagine Canada Logo" width="250"/>
+						<a href="http://www.imaginecanada.ca/our-programs/standards-program" target="_blank"><img src="images/highlights/highlight7-imagine.jpg" class="left-image wide-image" alt="Imagine Canada Logo" width="250"/></a>
 						<p class="first">Laurier is proud to be the first university in Canada to receive accreditation from Imagine Canada under the Standards Program. The accreditation signifies that the university is operating at the highest standards in board governance, financial accountability and transparency, fundraising, staff management and volunteer involvement.</p>
 						<h4 class="spotlight">Laurier’s accreditation demonstrates that it is a leader in the university sector</h4>
 						<p>“Laurier’s accreditation demonstrates that it is a leader in the university sector,” says Bruce MacDonald, president and CEO of Imagine Canada. “The Standards Program is a rigorous, peer-reviewed process that is meant to build public trust and confidence in the charitable sector. Accreditation signifies that Laurier takes accountability and operational transparency very seriously.”</p>
@@ -98,9 +97,10 @@
 						</ul>
 					</div>
 					<div class="social-links">
-						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://twitter.com/LaurierAlumni" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/LaurierAlumni" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/laurieralumni/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.linkedin.com/grp/home?gid=122980&trk=my_groups-tile-flipgrp" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 					</div>
 				</div>
 			</div>
@@ -117,11 +117,6 @@
 	        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
 	        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
     		});
-    		$(".moreText").hide();
-    		function readMoreText() {
-    			$(".fa-plus-circle").hide();
-    			$(".moreText").show();
-    		}
 		</script>
 	</body>
 </html>

@@ -63,8 +63,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<header class="info-header">
-						<span><a href="/">Home</a> &nbsp; > &nbsp; Impact > &nbsp; Beyond the Classroom</span>
-						<h3>Number 5</h3>
+						<span><a href="/">Home</a> &nbsp; > &nbsp; <a href="./#impact">Impact</a> > &nbsp; Beyond the Classroom</span>
 						<h1>Education Graduate Stays Connected</h1>
 					</header>
 				</div>
@@ -75,10 +74,10 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="story-container">
-						<img src="images/impact/impact5-marie1.jpg" class="left-image tall-image" alt="Marie-Helene Speaking"/>
+						<img src="images/impact/impact5-marie-helene1.jpg" class="left-image tall-image" alt="Marie-Helene Speaking"/>
 						<p class="first">For Marie-Helene Colaiezzi (BA ’07, BEd ’08), her love of Laurier began when she was first looking for the perfect university. “I’m from a smaller town and Laurier immediately felt like home,” says Marie-Helene. “I love that it was, and is still, a smaller, more intimate campus. The small class sizes, students being more than a number, the volunteer opportunities and the amazing professors and the relationships you build with them. Laurier has everything I was looking for and it lived up to my expectations.”</p>
 						<p>A part of the first cohort to graduate from Laurier’s Faculty of Education and a committed alumni donor, Marie-Helene credits her professional successes to the Bachelor of Education program’s unique structure. “Through the program we work with a school two days a week all year, and then also do our placements there. This is unique and it allows teaching students to build a strong rapport with the school, the host teachers and the students. We become a part of the school life, participating in extra-curricular activities and collaborating on projects. It really sets us up for success on placements and beyond.”</p>
-						<img src="images/impact/impact5-marie2.jpg" class="right-image tall-image" alt="Marie-Helene Portrait"/>
+						<img src="images/impact/impact5-marie-helene2.jpg" class="right-image tall-image" alt="Marie-Helene Portrait"/>
 						<h4 class="spotlight">Since graduating, Marie-Helene has found a number of ways to stay connected to the Laurier community</h4>
 						<p>Since graduating, Marie-Helene has found a number of ways to stay connected to the Laurier community. “My financial gift isn’t huge, but I enjoy also giving my time, through the WLUAA [Wilfrid Laurier University Alumni Association] Board of Directors, alumni events, career nights and other activities. I enjoy being back on campus—the nostalgia, yes, but also how much the campus has continued to change excites me. I love the buzz of hearing and seeing the students, of finding opportunities to share my story about finding a job in the community and helping answer their questions of ‘what happens now?’”</p>
 						<p>“I’m a part of the Waterloo community. I’m not from Waterloo—I don’t have a growing up connection. My connection is my post-secondary experience at Laurier, and it was a great experience. So my roots in the community started through Laurier, and it just makes sense to give back to Laurier any way I can to foster and build up my community as a whole.”</p>
@@ -101,9 +100,10 @@
 						</ul>
 					</div>
 					<div class="social-links">
-						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://twitter.com/LaurierAlumni" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/LaurierAlumni" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/laurieralumni/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.linkedin.com/grp/home?gid=122980&trk=my_groups-tile-flipgrp" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 					</div>
 				</div>
 			</div>
@@ -120,11 +120,6 @@
 	        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
 	        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
     		});
-    		$(".moreText").hide();
-    		function readMoreText() {
-    			$(".fa-plus-circle").hide();
-    			$(".moreText").show();
-    		}
 		</script>
 	</body>
 </html>

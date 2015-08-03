@@ -63,8 +63,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<span><a href="/">Home</a> &nbsp; > &nbsp; Highlights</span>
-						<h3>Number 4</h3>
+						<span><a href="/">Home</a> &nbsp; > &nbsp; <a href="./#highlights">Highlights</a></span>
 						<h1>Building Canada’s Best Business School</h1>
 					</div>
 				</div>
@@ -94,12 +93,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">The Marsland family donates $1 million to the Laurier Startup Fund and the construction of the new home of Laurier’s School of Business & Economics</a></h4>
+									<h4 class="timeline-title"><a href="http://legacy.wlu.ca/news_detail.php?grp_id=0&nws_id=13270" target="_blank">The Marsland family donates $1 million to the Laurier Startup Fund and the construction of the new home of Laurier’s School of Business & Economics</a></h4>
 									<p class="timeline-date">September 23, 2014</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-marsland.jpg" alt=""/>
+									<a href="http://legacy.wlu.ca/news_detail.php?grp_id=0&nws_id=13270" target="_blank"><img src="images/highlights/bcbbs-timeline-marsland.jpg" alt="The Marsland family donates $1 million to the Laurier Startup Fund and the construction of the new home of Laurier’s School of Business & Economics"/></a>
 								</div>
 							</div>
 						</li>
@@ -107,12 +106,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">The National Bank of Canada donates $200,000 in support of entrepreneurship education and the Launchpad program</a></h4>
+									<h4 class="timeline-title"><a href="http://legacy.wlu.ca/news_detail.php?grp_id=0&nws_id=13349" target="_blank">The National Bank of Canada donates $200,000 in support of entrepreneurship education and the Launchpad program</a></h4>
 									<p class="timeline-date">October, 2014</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-nationalbank.jpg" alt=""/>
+									<a href="http://legacy.wlu.ca/news_detail.php?grp_id=0&nws_id=13349" target="_blank"><img src="images/highlights/bcbbs-timeline-nationalbank.jpg" alt="The National Bank of Canada donates $200,000 in support of entrepreneurship education and the Launchpad program"/></a>
 								</div>
 							</div>
 						</li>
@@ -120,12 +119,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building</a></h4>
+									<h4 class="timeline-title"><a href="http://canadasbestbusinessschool.ca/give/nameyourseat/" target="_blank">Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building</a></h4>
 									<p class="timeline-date">November 10, 2014</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-seatcampaign.jpg" alt=""/>
+									<a href="http://canadasbestbusinessschool.ca/give/nameyourseat/" target="_blank"><img src="images/highlights/bcbbs-timeline-seatcampaign.jpg" alt="Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building"/></a>
 								</div>
 							</div>
 						</li>
@@ -133,12 +132,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">Alumni launch class giving campaigns. By joining together with other members of their graduating classes, alumni can be part of the historic campaign</a></h4>
+									<h4 class="timeline-title"><a href="http://canadasbestbusinessschool.ca/give/class-giving/" target="_blank">Alumni launch class giving campaigns. By joining together with other members of their graduating classes, alumni can be part of the historic campaign</a></h4>
 									<p class="timeline-date">December, 2014</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-launch-campaigns.jpg" />
+									<a href="http://canadasbestbusinessschool.ca/give/class-giving/" target="_blank"><img src="images/highlights/bcbbs-timeline-launch-campaigns.jpg" alt="Alumni launch class giving campaigns. By joining together with other members of their graduating classes, alumni can be part of the historic campaign"/></a>
 								</div>
 							</div>
 						</li>
@@ -146,12 +145,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">Laurier graduate Bill Webb (BBA ‘86) and his wife Dr. Agnes Wong donate $1-million to support the construciton of the new SBE building</a></h4>
+									<h4 class="timeline-title"><a href="http://wlu.ca/media/news-releases/january-2015/laurier-grad-donates-1m-to-school-of-business-and-economics.html" target="_blank">Laurier graduate Bill Webb (BBA ’86) and his wife Dr. Agnes Wong donate $1-million to support the construciton of the new SBE building</a></h4>
 									<p class="timeline-date">January 9, 2015</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-webb.jpg" />
+									<a href="http://wlu.ca/media/news-releases/january-2015/laurier-grad-donates-1m-to-school-of-business-and-economics.html" target="_blank"><img src="images/highlights/bcbbs-timeline-webb.jpg" alt="Laurier graduate Bill Webb (BBA ’86) and his wife Dr. Agnes Wong donate $1-million to support the construciton of the new SBE building"/></a>
 								</div>
 							</div>
 						</li>
@@ -159,12 +158,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">The Co-operators donates $100,000 to support the study of alternative governance models</a></h4>
+									<h4 class="timeline-title"><a href="http://newsreleases.cooperators.ca/2015-01-22-The-Co-operators-donates-100-000-to-Lauriers-School-of-Business-and-Economics" target="_blank">The Co-operators donates $100,000 to support the study of alternative governance models</a></h4>
 									<p class="timeline-date">January 22, 2015</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-cooperators.jpg" />
+									<a href="http://newsreleases.cooperators.ca/2015-01-22-The-Co-operators-donates-100-000-to-Lauriers-School-of-Business-and-Economics" target="_blank"><img src="images/highlights/bcbbs-timeline-cooperators.jpg" alt="The Co-operators donates $100,000 to support the study of alternative governance models"/></a>
 								</div>
 							</div>
 						</li>
@@ -172,12 +171,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">CN donates $500,000 to support research and education at the Centre for Supply Chain Management</a></h4>
+									<h4 class="timeline-title"><a href="http://www.cn.ca/en/news/2015/03/pressrelease_20150319110225_9172" target="_blank">CN donates $500,000 to support research and education at the Centre for Supply Chain Management</a></h4>
 									<p class="timeline-date">March 19, 2015</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-cn.jpg" />
+									<a href="http://www.cn.ca/en/news/2015/03/pressrelease_20150319110225_9172" target="_blank"><img src="images/highlights/bcbbs-timeline-cn.jpg" alt="CN donates $500,000 to support research and education at the Centre for Supply Chain Management"/></a>
 								</div>
 							</div>
 						</li>
@@ -185,12 +184,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="#" target="_blank">Mike Lazaridis and Ontario government contribute $35m to create world-class management institute</a></h4>
+									<h4 class="timeline-title"><a href="http://www.wlu.ca/media/news-releases/april-2015/mike-lazaridis-and-ontario-government-contribute-35m-to-create-world-class-management-institute-at-laurier.html" target="_blank">Mike Lazaridis and Ontario government contribute $35M to create world-class management institute</a></h4>
 									<p class="timeline-date">April 23, 2015</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<img src="images/highlights/bcbbs-timeline-lazaridis.jpg" />
+									<a href="http://www.wlu.ca/media/news-releases/april-2015/mike-lazaridis-and-ontario-government-contribute-35m-to-create-world-class-management-institute-at-laurier.html" target="_blank"><img src="images/highlights/bcbbs-timeline-lazaridis.jpg" alt="Mike Lazaridis and Ontario government contribute $35M to create world-class management institute"/></a>
 								</div>
 							</div>
 						</li>
@@ -213,9 +212,10 @@
 						</ul>
 					</div>
 					<div class="social-links">
-						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://twitter.com/LaurierAlumni" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/LaurierAlumni" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/laurieralumni/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.linkedin.com/grp/home?gid=122980&trk=my_groups-tile-flipgrp" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 					</div>
 				</div>
 			</div>
@@ -234,10 +234,10 @@
     		});
     		$(".moreText").hide();
     		function readMoreText() {
-    			$(".fa-plus-circle").hide();
-    			$(".moreText").show();
-    			$('.moreText').css({
-    				"margin-top":"-35px"
+    			$(".moreText").toggle( "slow", function() {
+    				$('.fa-plus-circle').css({
+    					"float":"right"
+    				});
     			});
     		}
 		</script>

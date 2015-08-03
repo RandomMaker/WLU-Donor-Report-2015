@@ -63,8 +63,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<header class="info-header">
-						<span><a href="/">Home</a> &nbsp; > &nbsp; Impact > &nbsp; Learning and Study Space</span>
-						<h3>Number 3</h3>
+						<span><a href="/">Home</a> &nbsp; > &nbsp; <a href="./#impact">Impact</a> > &nbsp; Learning and Study Space</span>
 						<h1>Graduate Students Create A Room Of Their Own </h1>
 					</header>
 				</div>
@@ -82,7 +81,7 @@
 						<p>“The GSA felt it was important to provide community space for our Brantford graduate students to relax, network and host events,” says Ellen Menage, executive director of Laurier’s GSA. “It’s a way to foster community and to reiterate the important role graduate students play at Laurier.”</p>
 						<p>To bring the lounge to life, the GSA and Laurier Brantford graduate students met in the pre-renovated space in the Odeon basement. There they held discussions and focus groups in order to build a space that suited the needs of Brantford’s graduate students.</p>
 						<img src="images/impact/impact3-gsalounge2.jpg" class="right-image wide-image" alt="The New GSA Lounge"/>
-						<h4 class="spotlight">“They wanted it to feel loungey,”</h4>
+						<h4 class="spotlight">“They now have a space for them to engage and connect.”</h4>
 						<p>“They wanted it to feel loungey,” says Ellen. “The space already had a kitchenette and they were happy to have that, but they also wanted comfortable seating, open spaces and lockers for their personal items.”</p>
 						<p>With overstuffed chairs, a bank of lockers and tables for more formal events, it seems the GSA has delivered on the students’ desires. Ellen concludes, “It’s multi-functional, and designed by the students for the students. They now have a space for them to engage and connect. They are comfortable being themselves in this space... It’s a space where they belong.”</p>
 					</div>
@@ -104,9 +103,10 @@
 						</ul>
 					</div>
 					<div class="social-links">
-						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://twitter.com/LaurierAlumni" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/LaurierAlumni" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/laurieralumni/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.linkedin.com/grp/home?gid=122980&trk=my_groups-tile-flipgrp" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 					</div>
 				</div>
 			</div>
@@ -123,11 +123,6 @@
 	        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
 	        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
     		});
-    		$(".moreText").hide();
-    		function readMoreText() {
-    			$(".fa-plus-circle").hide();
-    			$(".moreText").show();
-    		}
 		</script>
 	</body>
 </html>

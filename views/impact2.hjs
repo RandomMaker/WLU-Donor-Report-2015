@@ -63,8 +63,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<header class="info-header">
-						<span><a href="/">Home</a> &nbsp; > &nbsp; Impact > &nbsp; Research Excellence</span>
-						<h3>Number 2</h3>
+						<span><a href="/">Home</a> &nbsp; > &nbsp; <a href="./#impact">Impact</a> > &nbsp; Research Excellence</span>
 						<h1>Ira Gluskin Supports Award-Winning Research</h1>
 					</header>
 				</div>
@@ -77,7 +76,7 @@
 					<div class="story-container">
 						<img src="images/impact/impact2-SiLi.jpg" class="left-image tall-image" alt="Dr. Si Li"/>
 						<p class="first">When Ira Gluskin, co-founder of Gluskin Sheff + Associates, created a fellowship in finance in the School of Business and Economics, he wanted the funds to help recruit or retain a faculty member with an outstanding record of research and teaching. The first recipient of that fellowship was Dr. Si Li, Associate Professor in Finance at Laurier.</p>
-						<h4 class="spotlight">For Dr. Li, the Ira Gluskin Fellowship in Finance provided critical support...</h4>
+						<h4 class="spotlight">"the support I received.. has had a major impact on the quality of my research"</h4>
 						<p>For Dr. Li, the Ira Gluskin Fellowship in Finance provided critical support as she developed four important research papers last year. Those papers focused on the risks involved in stock crashes through product market threats, meaning competition from rivals or simply market competition, debt refinancing and political uncertainty, as well as the unobservable factors that determine executive pay levels. Dr. Li has been asked to present her work at prestigious universities and conferences and won the best paper award at the 22nd Conference on the Theories and Practices of Securities and Financial Markets in December 2014.</p>
 						<p>“The Ira Gluskin Fellowship in Finance allowed me to collect the data I needed to do my research work, to collaborate with other university researchers and to cover the costs of presenting the papers,” says Dr. Li. “I am most grateful to Mr. Gluskin and Laurier for the support I received. It has had a major impact on the quality of my research and the knowledge I can transfer over to Laurier’s students.”</p>
 					</div>
@@ -99,9 +98,10 @@
 						</ul>
 					</div>
 					<div class="social-links">
-						<a href="https://twitter.com/LaurierNews" target="_blank"><i class="fa fa-twitter"></i></a>
-						<a href="https://www.facebook.com/WilfridLaurierUniversity" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="https://instagram.com/lauriernews/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://twitter.com/LaurierAlumni" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.facebook.com/LaurierAlumni" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://instagram.com/laurieralumni/" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.linkedin.com/grp/home?gid=122980&trk=my_groups-tile-flipgrp" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 					</div>
 				</div>
 			</div>
@@ -118,11 +118,6 @@
 	        	"-moz-box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
 	        	"box-shadow":"0px 3px 0px 0px rgba(60,40,134,1)",
     		});
-    		$(".moreText").hide();
-    		function readMoreText() {
-    			$(".fa-plus-circle").hide();
-    			$(".moreText").show();
-    		}
 		</script>
 	</body>
 </html>
