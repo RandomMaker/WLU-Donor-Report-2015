@@ -74,7 +74,10 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="story-container">
-						<a href="http://www.imaginecanada.ca/our-programs/standards-program" target="_blank"><img src="images/highlights/highlight7-imagine.jpg" class="left-image wide-image" alt="Imagine Canada Logo" width="250"/></a>
+						<div class="captioned-image left-image">
+							<a href="http://www.imaginecanada.ca/our-programs/standards-program" target="_blank"><img src="images/highlights/highlight7-imagine.jpg" class="wide-image" alt="Imagine Canada Logo" width="250"/></a>
+							<p class="caption"></p>
+						</div>
 						<p class="first">Laurier is proud to be the first university in Canada to receive accreditation from Imagine Canada under the Standards Program. The accreditation signifies that the university is operating at the highest standards in board governance, financial accountability and transparency, fundraising, staff management and volunteer involvement.</p>
 						<h4 class="spotlight">Laurier’s accreditation demonstrates that it is a leader in the university sector</h4>
 						<p>“Laurier’s accreditation demonstrates that it is a leader in the university sector,” says Bruce MacDonald, president and CEO of Imagine Canada. “The Standards Program is a rigorous, peer-reviewed process that is meant to build public trust and confidence in the charitable sector. Accreditation signifies that Laurier takes accountability and operational transparency very seriously.”</p>

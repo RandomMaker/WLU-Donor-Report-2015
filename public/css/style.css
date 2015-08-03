@@ -930,23 +930,33 @@ position: relative;
 }
 .story-container .left-image {
   float: left;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
   margin: 0px 25px 0px 0px;
 }
 .story-container .right-image {
   float: right;
+  margin: 0px 0px 0px 25px;
+}
+.story-container .captioned-image {
+  display: table;
+  width: 1px;
+}
+.story-container .captioned-image img {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
-  margin: 0px 0px 0px 25px;
+  margin-bottom: 10px;
 }
 .story-container .tall-image {
   max-height: 425px;
 }
 .story-container .wide-image {
   max-width: 425px;
+}
+.story-container .captioned-image .caption {
+  padding: 0px 5px 0px 5px;
+  color: #b5b5b5;
+  font-size: 12px;
+  line-height: 18px;
 }
 .story-container .spotlight {
   color: #3c2886;
@@ -957,18 +967,23 @@ position: relative;
 }
 
 @media (max-width: 767px) {
-  .story-container .wide-image {
+  .story-container .captioned-image {
     float: none;
     width: 100%;
+    margin: 0;
+  }
+  .story-container .captioned-image .wide-image {
+    width: 100%;
+    margin: 10px auto 20px auto !important;
+    display: block;
+  }
+  .story-container .captioned-image .tall-image {
     margin: 10px auto 20px auto !important;
     display: block;
   }
 }
 @media (max-width: 480px) {
-  .story-container .tall-image {
-    float: none;
+  .story-container .captioned-image .tall-image {
     max-height: 300px;
-    margin: 10px auto 20px auto !important;
-    display: block;
   }
 }

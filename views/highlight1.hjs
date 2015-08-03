@@ -74,7 +74,10 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="story-container">
-						<img src="images/highlights/highlight1-lyle.jpg" class="left-image wide-image" alt="Lyle S. Hallman"/>
+						<div class="captioned-image left-image">
+							<img src="images/highlights/highlight1-lyle.jpg" class="wide-image" alt="Lyle S. Hallman"/>
+							<p class="caption">Members of the Hallman Foundation receive the Philanthropists of the Year award from the Golden Horseshoe Chapter of the Association for Fundraising Professionals</p>
+						</div>
 						<p class="first">Four years ago, the Lyle S. Hallman Foundation granted Laurier funding to begin an innovative program that brought together inside (incarcerated) and outside (campus-enrolled) students as classmates for semester-long college and university courses. Now known as Walls To Bridges (W2B), the program illustrates how learning together allows all students to break down social barriers, see beyond stereotypes and make constructive changes in their lives and communities. Laurier is very grateful that the Hallman Foundation renewed its support this past spring. The Foundation committed an additional $191,938 to the program ensuring that W2B can continue at Laurier and students will continue to benefit from this unique educational experience.</p>
 					</div>
 				</div>

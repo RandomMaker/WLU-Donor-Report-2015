@@ -74,7 +74,10 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="story-container">
-						<img src="images/highlights/highlight2-mcconnell.jpg" class="left-image wide-image" alt="McConnell Visit"/>
+						<div class="captioned-image left-image">
+							<img src="images/highlights/highlight2-mcconnell.jpg" class="wide-image" alt="McConnell Visit"/>
+							<p class="caption">Karli Ferriolo (student), Melissa Ireland (Aboriginal Student Support Co-ordinator), Abbas Jeraj (Student), Dr. Joanne Benham-Rennick (Director of the Social Entrepreneurship Option) and Jessica Vorsteveld (graduate student) at the University of Maryland for a social innovation and social entrepreneurship program.</p>
+						</div>
 						<p class="first">A $500,000 grant from the J.W. McConnell Family Foundation will support social entrepreneurship at Laurier’s Waterloo, Kitchener and Brantford locations. The donation will supplement Laurier’s academic programs in social entrepreneurship by funding student groups and activities, mentorship initiatives and new social enterprises. Laurier’s project was one of 14 funded by the Foundation. Together, the funded projects will form a national network, which will encourage collaboration and communication between participating institutions.</p>
 					</div>
 				</div>

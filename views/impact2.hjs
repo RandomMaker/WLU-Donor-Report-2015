@@ -74,7 +74,10 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="story-container">
-						<img src="images/impact/impact2-SiLi.jpg" class="left-image tall-image" alt="Dr. Si Li"/>
+						<div class="captioned-image left-image">
+							<img src="images/impact/impact2-SiLi.jpg" class="tall-image" alt="Dr. Si Li"/>
+							<p class="caption"></p>
+						</div>
 						<p class="first">When Ira Gluskin, co-founder of Gluskin Sheff + Associates, created a fellowship in finance in the School of Business and Economics, he wanted the funds to help recruit or retain a faculty member with an outstanding record of research and teaching. The first recipient of that fellowship was Dr. Si Li, Associate Professor in Finance at Laurier.</p>
 						<h4 class="spotlight">"the support I received.. has had a major impact on the quality of my research"</h4>
 						<p>For Dr. Li, the Ira Gluskin Fellowship in Finance provided critical support as she developed four important research papers last year. Those papers focused on the risks involved in stock crashes through product market threats, meaning competition from rivals or simply market competition, debt refinancing and political uncertainty, as well as the unobservable factors that determine executive pay levels. Dr. Li has been asked to present her work at prestigious universities and conferences and won the best paper award at the 22nd Conference on the Theories and Practices of Securities and Financial Markets in December 2014.</p>
