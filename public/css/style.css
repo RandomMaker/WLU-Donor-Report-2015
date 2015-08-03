@@ -52,35 +52,6 @@ a:hover {
   border-bottom: 3px solid #fcb814;
   margin: auto;
 }
-.purple-divider {
-  width: 75px;
-  border-bottom: 3px solid #3c2886;
-  margin: auto;
-}
-.red-divider {
-  width: 75px;
-  border-bottom: 3px solid #ef4639;
-  margin: auto;
-}
-.explore-button {
-  color: #ffffff;
-  background-color: #3c2886;
-  border: 2px solid #3c2886;
-  padding: 8px 18px 8px 18px;
-  margin: 0px 0px 30px 25px;
-  position: absolute;
-  bottom: 0;
-}
-.explore-button:hover {
-  color: #3c2886;
-  background-color: #FFFFFF;
-  border: 2px solid #3c2886;
-  transition: all 0.5s ease 0s;
-  -webkit-transition: all 0.5s ease 0s;
-  -moz-transition: all 0.5s ease 0s;
-  -o-transition: all 0.5s ease 0s;
-  -ms-transition: all 0.5s ease 0s;
-}
 .spacer {
   height: 40px;
 }
@@ -419,33 +390,47 @@ div.clear {
   padding: 40px 0px 40px 0px;
 }
 .highlight-story {
-  max-width: 500px;
-  height: 240px;
-  background-color: #000000;
+  color: #FFFFFF;
+  height: 250px;
+  max-width: 350px;
   margin: auto;
+  overflow: hidden;
+  position: relative;
   border-radius: 3px 3px 3px 3px;
   -moz-border-radius: 3px 3px 3px 3px;
   -webkit-border-radius: 3px 3px 3px 3px;
   border: 0px solid #000000;
 }
-.highlight-story .content {
-  padding: 30px 25px 0px 25px;
+.highlight-story h4 {
+  font-size: 16px;
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 600;
+  margin: 0;
+  padding: 25px 25px 0px 25px;
 }
 .highlight-story h3 {
-  display: inline;
-  vertical-align: middle;
-  color: #FFFFFF;
-  font-size: 24px;
-  line-height: 40px;
+  font-size: 22px;
+  line-height: 33px;
+  margin: 0;
+  padding: 15px 25px 0px 25px;
 }
-.highlight-story p {
-  color: #FFFFFF;
-  font-size: 15px;
-  line-height: 22.5px;
-  padding-top: 10px;
+.highlight-story .readMore-button {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: #fcb814;
+  background: none;
+  border: none;
+  padding: 0px;
+  margin: 0px 0px 30px 25px;
+  position: absolute;
+  bottom: 0;
 }
-.highlight-story button {
-  margin-left: 0;
+.highlight-story .readMore-button:hover {
+  color: #fcb814;
+  text-decoration: underline;
+  background: none;
+  border: none;
 }
 
 /* Background Images */
