@@ -119,12 +119,12 @@
 							<div class="timeline-badge"></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4 class="timeline-title"><a href="http://canadasbestbusinessschool.ca/give/nameyourseat/" target="_blank">Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building</a></h4>
+									<h4 class="timeline-title"><a href="#" id="bcbbsVideo-title">Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building</a></h4>
 									<p class="timeline-date">November 10, 2014</p>
 									<div class="divider"></div>
 								</div>
 								<div class="timeline-body">
-									<a href="http://canadasbestbusinessschool.ca/give/nameyourseat/" target="_blank"><img src="images/highlights/bcbbs-timeline-seatcampaign.jpg" alt="Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building"/></a>
+									<a href="#" id="bcbbsVideo-image"><img src="images/highlights/bcbbs-timeline-seatcampaign.jpg" alt="Name Your Seat Campaign launches. More than 100 donors have “made their pledge” by donating to name a seat in the new SBE building"/></a>
 								</div>
 							</div>
 						</li>

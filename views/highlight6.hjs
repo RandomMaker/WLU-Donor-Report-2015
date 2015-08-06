@@ -76,9 +76,13 @@
 					<div class="story-container">
 						<div class="captioned-image left-image">
 							<img src="images/highlights/highlight6-ken.jpg" class="wide-image" alt="Ken and Marilyn and Sponsor"/>
-							<p class="caption"></p>
+							<p class="caption">Ken and Marilyn Murray receive the Philanthropists of the Year award from the Golden Horseshoe Chapter of the Association for Fundraising Professionals</p>
 						</div>
 						<p class="first">Laurier’s generous donors have once again been singled out by the Golden Horseshoe Chapter of the Association for Fundraising Professionals. Ken and Marilyn Murray and the Lyle S. Hallman Foundation were recognized for their role as community leaders, volunteers and donors. The Murrays have provided critical support for music students, and the Lyle S. Hallman Foundation has been a major funder of Laurier’s Faculty of Social Work and two key programs: Walls to Bridges (formerly Inside Out) and Building Bridges to Success.</p>
+						<div class="captioned-image right-image">
+							<img src="images/highlights/highlight1-lyle.jpg" class="wide-image" alt="Lyle S. Hallman"/>
+							<p class="caption">Members of the Hallman Foundation receive the Philanthropists of the Year award from the Golden Horseshoe Chapter of the Association for Fundraising Professionals</p>
+						</div>
 						<h4 class="spotlight">We are extremely grateful for their inspiring leadership</h4>
 						<p>“We are extremely grateful for their inspiring leadership and generous support,” says Rob Donelson, Laurier’s vice-president of Development and Alumni Relations.</p>
 					</div>
