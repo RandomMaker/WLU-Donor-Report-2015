@@ -488,18 +488,12 @@ div.clear {
   -webkit-border-radius: 3px 3px 3px 3px;
   border: 0px solid #000000;
 }
-.highlight-story h4 {
-  font-size: 16px;
-  font-family: "proxima-nova", sans-serif;
-  font-weight: 600;
-  margin: 0;
-  padding: 25px 25px 0px 25px;
-}
 .highlight-story h3 {
   font-size: 22px;
   line-height: 33px;
   margin: 0;
   padding: 15px 25px 0px 25px;
+  margin-top: 20px;
 }
 .highlight-story a {
   color: #FFFFFF;
