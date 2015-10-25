@@ -105,20 +105,20 @@
 				<div class="row">
 					<div class="col-md-6">
 						<div class="impact-story margin-right">
-							<a href="/academic-program-development">
+							<div style="cursor: pointer;" onclick="window.location='/academic-program-development';">
 								<div class="battlefield-tour"></div>
 								<h3>Academic Program Development</h3>
 								<h4>John and Pattie Cleghorn Help Students <br /> Explore Canada’s Battlefields</h4>
-							</a>
+							</div>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="impact-story">
-							<a href="/research-excellence">
+							<div style="cursor: pointer;" onclick="window.location='/research-excellence';">
 								<div class="research-award"></div>
 								<h3>Research Excellence</h3>
 								<h4>Ira Gluskin Supports <br /> Award-Winning Research</h4>
-							</a>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -131,20 +131,20 @@
 				<div class="row">
 					<div class="col-md-6">
 						<div class="impact-story margin-right">
-							<a href="/learning-and-study-space">
+							<div style="cursor: pointer;" onclick="window.location='/learning-and-study-space';">
 								<div class="gsa-lounge"></div>
 								<h3>Learning and Study Space</h3>
 								<h4>Graduate Students Create A <br /> Room Of Their Own</h4>
-							</a>
+							</div>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="impact-story">
-							<a href="/student-financial-support">
+							<div style="cursor: pointer;" onclick="window.location='/student-financial-support';">
 								<div class="thompson-music"></div>
 								<h3>Student Financial Support</h3>
 								<h4>William Thompson Inspires Music in Our Community</h4>
-							</a>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -157,11 +157,11 @@
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3">
 						<div class="impact-story margin-right">
-							<a href="/beyond-the-classroom">
+							<div style="cursor: pointer;" onclick="window.location='/beyond-the-classroom';">
 								<div class="graduate-connected"></div>
 								<h3>Beyond the Classroom</h3>
 								<h4>Education Graduate Stays Connected</h4>
-							</a>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -185,22 +185,28 @@
 		<!-- Row 1 -->
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
-					<div class="highlight-story hallman">
-						<h3><a href="/foundation-renews-support">Hallman Foundation Renews Support</a></h3>
-						<a href="/foundation-renews-support"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+				<div style="cursor: pointer;" onclick="window.location='/foundation-renews-support';">
+					<div class="col-md-4">
+						<div class="highlight-story hallman">
+							<h3><a href="/foundation-renews-support">Hallman Foundation Renews Support</a></h3>
+							<a href="/foundation-renews-support"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="highlight-story mconnell">
-						<h3><a href="/entrepreneurship-gets-a-boost">Entrepreneurship Gets A Boost</a></h3>
-						<a href="/entrepreneurship-gets-a-boost"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+				<div style="cursor: pointer;" onclick="window.location='/entrepreneurship-gets-a-boost';">
+					<div class="col-md-4">
+						<div class="highlight-story mconnell">
+							<h3><a href="/entrepreneurship-gets-a-boost">Entrepreneurship Gets A Boost</a></h3>
+							<a href="/entrepreneurship-gets-a-boost"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="highlight-story ymca">
-						<h3><a href="/momentum-builds-for-brantford-ymca">Momentum Builds for Laurier Brantford YMCA</a></h3>
-						<a href="/momentum-builds-for-brantford-ymca"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+				<div style="cursor: pointer;" onclick="window.location='/momentum-builds-for-brantford-ymca';">
+					<div class="col-md-4">
+						<div class="highlight-story ymca">
+							<h3><a href="/momentum-builds-for-brantford-ymca">Momentum Builds for Laurier Brantford YMCA</a></h3>
+							<a href="/momentum-builds-for-brantford-ymca"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -211,22 +217,28 @@
 		<!-- Row 2 -->
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
-					<div class="highlight-story bcbbs">
-						<h3><a href="/building-canadas-best-business-school">Building Canada’s Best Business School</a></h3>
-						<a href="/building-canadas-best-business-school"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+				<div style="cursor: pointer;" onclick="window.location='/building-canadas-best-business-school';">
+					<div class="col-md-4">
+						<div class="highlight-story bcbbs">
+							<h3><a href="/building-canadas-best-business-school">Building Canada’s Best Business School</a></h3>
+							<a href="/building-canadas-best-business-school"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="highlight-story philanthropy">
-						<h3><a href="/2015-laurier-society-philanthropy-awards">2015 Laurier Society Philanthropy Awards</a></h3>
-						<a href="/2015-laurier-society-philanthropy-awards"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+				<div style="cursor: pointer;" onclick="window.location='/2015-laurier-society-philanthropy-awards';">
+					<div class="col-md-4">
+						<div class="highlight-story philanthropy">
+							<h3><a href="/2015-laurier-society-philanthropy-awards">2015 Laurier Society Philanthropy Awards</a></h3>
+							<a href="/2015-laurier-society-philanthropy-awards"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="highlight-story philanthropist-year">
-						<h3><a href="/afp-philanthropists-of-the-year">AFP Philanthropists of the Year</a></h3>
-						<a href="/afp-philanthropists-of-the-year"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+				<div style="cursor: pointer;" onclick="window.location='/afp-philanthropists-of-the-year';">
+					<div class="col-md-4">
+						<div class="highlight-story philanthropist-year">
+							<h3><a href="/afp-philanthropists-of-the-year">AFP Philanthropists of the Year</a></h3>
+							<a href="/afp-philanthropists-of-the-year"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -237,10 +249,12 @@
 		<!-- Row 3 -->
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4 col-md-offset-4">
-					<div class="highlight-story imagine">
-						<h3><a href="/imagine-canada">Imagine Canada</a></h3>
-						<a href="/imagine-canada"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+				<div style="cursor: pointer;" onclick="window.location='/imagine-canada';">
+					<div class="col-md-4 col-md-offset-4">
+						<div class="highlight-story imagine">
+							<h3><a href="/imagine-canada">Imagine Canada</a></h3>
+							<a href="/imagine-canada"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
+						</div>
 					</div>
 				</div>
 			</div>
