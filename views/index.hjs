@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Donor Impact Report - Wilfrid Laurier University</title>
+		<title>Donor Impact Report 2014-15 - Wilfrid Laurier University</title>
 		<link rel="shortcut icon" href="favicon.ico" />
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -76,6 +76,16 @@
 					</div>
 				</div>
 		</header>
+		<!-- Donor Impact Report Title -->
+		<div id="donor-report-title">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 title">
+						<h2>Donor Impact Report 2014-15</h2>
+					</div>
+				</div>
+			</div>
+		</div>
 		<!-- Areas of Impact -->
 		<div id="impact">
 			<div class="container">
@@ -98,7 +108,7 @@
 							<a href="/academic-program-development">
 								<div class="battlefield-tour"></div>
 								<h3>Academic Program Development</h3>
-								<h1>John and Pattie Cleghorn Help Students <br /> Explore Canada’s Battlefields</h1>
+								<h4>John and Pattie Cleghorn Help Students <br /> Explore Canada’s Battlefields</h4>
 							</a>
 						</div>
 					</div>
@@ -107,7 +117,7 @@
 							<a href="/research-excellence">
 								<div class="research-award"></div>
 								<h3>Research Excellence</h3>
-								<h1>Ira Gluskin Supports <br /> Award-Winning Research</h1>
+								<h4>Ira Gluskin Supports <br /> Award-Winning Research</h4>
 							</a>
 						</div>
 					</div>
@@ -124,7 +134,7 @@
 							<a href="/learning-and-study-space">
 								<div class="gsa-lounge"></div>
 								<h3>Learning and Study Space</h3>
-								<h1>Graduate Students Create A <br /> Room Of Their Own</h1>
+								<h4>Graduate Students Create A <br /> Room Of Their Own</h4>
 							</a>
 						</div>
 					</div>
@@ -133,7 +143,7 @@
 							<a href="/student-financial-support">
 								<div class="thompson-music"></div>
 								<h3>Student Financial Support</h3>
-								<h1>William Thompson Inspires Music in Our Community</h1>
+								<h4>William Thompson Inspires Music in Our Community</h4>
 							</a>
 						</div>
 					</div>
@@ -149,8 +159,8 @@
 						<div class="impact-story margin-right">
 							<a href="/beyond-the-classroom">
 								<div class="graduate-connected"></div>
-								<h3>Beyond The Classroom</h3>
-								<h1>Education Graduate Stays Connected</h1>
+								<h3>Beyond the Classroom</h3>
+								<h4>Education Graduate Stays Connected</h4>
 							</a>
 						</div>
 					</div>
@@ -177,20 +187,20 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="highlight-story hallman">
-						<h3><a href="/foundation-renews-support">The Lyle S. Hallman foundation ensuring that Laurier students will continue to benefit</a></h3>
-						<a href="/foundation-renews-support"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+						<h3><a href="/foundation-renews-support">Hallman Foundation Renews Support</a></h3>
+						<a href="/foundation-renews-support"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="highlight-story mconnell">
-						<h3><a href="/entrepreneurship-gets-a-boost">Grant from the J.W. McConnell Family Foundation will support social entrepreneurship</a></h3>
-						<a href="/entrepreneurship-gets-a-boost"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+						<h3><a href="/entrepreneurship-gets-a-boost">Entrepreneurship Gets A Boost</a></h3>
+						<a href="/entrepreneurship-gets-a-boost"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="highlight-story ymca">
-						<h3><a href="/momentum-builds-for-brantford-ymca">Donors have made numerous generous contributions</a></h3>
-						<a href="/momentum-builds-for-brantford-ymca"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+						<h3><a href="/momentum-builds-for-brantford-ymca">Momentum Builds for Laurier Brantford YMCA</a></h3>
+						<a href="/momentum-builds-for-brantford-ymca"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
 					</div>
 				</div>
 			</div>
@@ -203,20 +213,20 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="highlight-story bcbbs">
-						<h3><a href="/building-canadas-best-business-school">Many generous donors are together building</a></h3>
-						<a href="/building-canadas-best-business-school"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+						<h3><a href="/building-canadas-best-business-school">Building Canada’s Best Business School</a></h3>
+						<a href="/building-canadas-best-business-school"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="highlight-story philanthropy">
-						<h3><a href="/2015-laurier-society-philanthropy-awards">Laurier celebrated donors Ian and Hilary McLean and Barry Schneider ’65</a></h3>
-						<a href="/2015-laurier-society-philanthropy-awards"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+						<h3><a href="/2015-laurier-society-philanthropy-awards">2015 Laurier Society Philanthropy Awards</a></h3>
+						<a href="/2015-laurier-society-philanthropy-awards"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="highlight-story philanthropist-year">
-						<h3><a href="/afp-philanthropists-of-the-year">Laurier’s generous donors were recognized</a></h3>
-						<a href="/afp-philanthropists-of-the-year"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+						<h3><a href="/afp-philanthropists-of-the-year">AFP Philanthropists of the Year</a></h3>
+						<a href="/afp-philanthropists-of-the-year"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
 					</div>
 				</div>
 			</div>
@@ -229,8 +239,8 @@
 			<div class="row">
 				<div class="col-md-4 col-md-offset-4">
 					<div class="highlight-story imagine">
-						<h3><a href="/imagine-canada">Laurier is the first university in Canada to receive accreditation from Imagine Canada</a></h3>
-						<a href="/imagine-canada"><button class="btn btn-primary readMore-button">READ MORE</button></a>
+						<h3><a href="/imagine-canada">Imagine Canada</a></h3>
+						<a href="/imagine-canada"><button class="btn btn-primary readMore-button">READ THE STORY</button></a>
 					</div>
 				</div>
 			</div>
@@ -240,8 +250,7 @@
 		<div class="container">
 			<div class="row" id="theNumbers">
 				<div class="col-md-12 title">
-					<h2>The Numbers</h2>
-					<p>2014 - 2015 Giving Financials</p>
+					<h2>2014 - 2015 Giving Financials</h2>
 					<div class="yellow-divider">
 						&nbsp;
 					</div>
@@ -257,16 +266,16 @@
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
-										<img src="images/gold-bubble.png" />
+										<img src="images/gold-bubble.png" alt="gold bubble"/>
 									</div>
-									<p>TOTAT AMOUNT OF DONATIONS</p>
+									<p>TOTAL AMOUNT OF DONATIONS</p>
 									<div class="number-divider">&nbsp;</div>
 								</div>
 								<div class="icon-container">
 									<span class="icon-stroke-gift-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<h3>$28,024,594</h3>
+									<span>$28,024,594</span><br />
 									<p class="disclaimer">* Includes $20-million donation from Mike Lazaridis</p>
 								</div>
 							</div>
@@ -277,7 +286,7 @@
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
-										<img src="images/gold-bubble.png" />
+										<img src="images/gold-bubble.png" alt="gold bubble"/>
 									</div>
 									<p>TOTAL NUMBER OF DONORS</p>
 									<div class="number-divider">&nbsp;</div>
@@ -286,7 +295,7 @@
 									<span class="icon-solid-group-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<h3>4,008</h3>
+									<span>4,008</span><br />
 									<p>DONORS</p>
 								</div>
 							</div>
@@ -299,7 +308,7 @@
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
-										<img src="images/gold-bubble.png" />
+										<img src="images/gold-bubble.png" alt="gold bubble"/>
 									</div>
 									<p>TOTAL NUMBER OF DONATIONS</p>
 									<div class="number-divider">&nbsp;</div>
@@ -308,7 +317,7 @@
 									<span class="icon-solid-bucket-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<h3>4,424</h3>
+									<span>4,424</span><br />
 									<p>DONATIONS</p>
 								</div>
 							</div>
@@ -319,7 +328,7 @@
 							<div class="numbers-box">
 								<div class="numbers-header">
 									<div class="circle">
-										<img src="images/gold-bubble.png" />
+										<img src="images/gold-bubble.png" alt="gold bubble"/>
 									</div>
 									<p>AVERAGE GIFT AMOUNT</p>
 									<div class="number-divider">&nbsp;</div>
@@ -328,7 +337,7 @@
 									<span class="icon-stroke-money-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<h3>$2,032</h3>
+									<span>$2,032</span><br />
 									<p>DOLLARS</p>
 									<p class="disclaimer">* Does not include Mike Lazaridis' $20-million donation</p>
 								</div>
@@ -341,7 +350,7 @@
 					<div class="chart-box">
 						<div class="numbers-header">
 							<div class="circle">
-								<img src="images/gold-bubble.png" />
+								<img src="images/gold-bubble.png" alt="gold bubble"/>
 							</div>
 							<p>DONATION DESIGNATION AREAS</p>
 							<div class="number-divider">&nbsp;</div>
@@ -357,7 +366,7 @@
 					<div class="numbers-box">
 						<div class="numbers-header">
 							<div class="circle">
-								<img src="images/gold-bubble.png" />
+								<img src="images/gold-bubble.png" alt="gold bubble"/>
 							</div>
 							<p>1,270 STUDENTS RECEIVED</p>
 							<div class="number-divider">&nbsp;</div>
@@ -366,7 +375,7 @@
 							<span class="icon-solid-group-1 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<h3>$2,866,635</h3>
+							<span>$2,866,635</span><br />
 							<p>IN SCHOLARSHIPS, AWARDS <br>AND BURSARIES</p>
 						</div>
 					</div>
@@ -375,7 +384,7 @@
 					<div class="numbers-box">
 						<div class="numbers-header">
 							<div class="circle">
-								<img src="images/gold-bubble.png" />
+								<img src="images/gold-bubble.png" alt="gold bubble"/>
 							</div>
 							<p>DONATED THROUGH ESTATES</p>
 							<div class="number-divider">&nbsp;</div>
@@ -384,7 +393,7 @@
 							<span class="icon-solid-document-2 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<h3>$766,207</h3>
+							<span>$766,207</span><br />
 							<p>DONORS</p>
 						</div>
 					</div>
@@ -393,7 +402,7 @@
 					<div class="numbers-box">
 						<div class="numbers-header">
 							<div class="circle">
-								<img src="images/gold-bubble.png" />
+								<img src="images/gold-bubble.png" alt="gold bubble"/>
 							</div>
 							<p>INCREASE IN ALUMNI DONATIONS</p>
 							<div class="number-divider">&nbsp;</div>
@@ -402,7 +411,7 @@
 							<span class="icon-stroke-up-3 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<h3>13%</h3>
+							<h3>13%</h3><br />
 						</div>
 					</div>
 				</div>
@@ -410,7 +419,7 @@
 					<div class="numbers-box">
 						<div class="numbers-header">
 							<div class="circle">
-								<img src="images/gold-bubble.png" />
+								<img src="images/gold-bubble.png" alt="gold bubble"/>
 							</div>
 							<p>OF ALL DONORS</p>
 							<div class="number-divider">&nbsp;</div>
@@ -419,7 +428,7 @@
 							<span class="icon-school3 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<h3>57%</h3>
+							<span>57%</span><br />
 							<p>ARE ALUMNI</p>
 						</div>
 					</div>
@@ -430,6 +439,16 @@
 		<footer id="footer">
 			<div class="container">
 				<div class="row">
+					<div class="logo-footer">
+						<a href="/"><img src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo" /></a><br />
+						<p>Wilfrid Laurier University</p>
+						<ul class="footer-links">
+							<li>Waterloo</li>
+							<li>Brantford</li>
+							<li>Kitchener</li>
+							<li class="last">Toronto</li>
+						</ul>
+					</div>
 					<div class="footer-menu">
 						<ul class="footer-links">
 							<li><a href="/">HOME</a></li>

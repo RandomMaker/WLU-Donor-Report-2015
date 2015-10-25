@@ -221,8 +221,8 @@ div.clear {
   height: 525px;
   background: #373737;
   overflow: hidden;
-  opacity: 0.8;
-  filter: alpha(opacity=8000);
+  opacity: 0.85;
+  filter: alpha(opacity=8500);
 }
 #thank-you-container .thank-you-message {
   max-width: 725px;
@@ -300,6 +300,15 @@ div.clear {
   }
 }
 
+/* DONOR IMPACT REPORT TITLE */
+#donor-report-title {
+  background-color: #f2f2f2;
+  color: #373737;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
 /* AREAS OF IMPACT */
 #impact {
   background-color: #3c2886;
@@ -337,7 +346,7 @@ div.clear {
   font-weight: 700;
   margin-top: 80px;
 }
-#impact-areas .impact-story h1 {
+#impact-areas .impact-story h4 {
   position: absolute;
   color: #FFFFFF;
   width: 100%;
@@ -632,7 +641,7 @@ div.clear {
 .numbers-info {
   text-align: center;
 }
-.numbers-info h3 {
+.numbers-info span {
   margin-top: 10px;
   font-size: 36px;
 }
@@ -697,7 +706,7 @@ div.clear {
 /* FOOTER */
 #footer {
   background-color: #F2F2F2;
-  height: 80px;
+  height: 125px;
 }
 #footer .footer-menu {
   text-align: center;
@@ -716,7 +725,7 @@ div.clear {
   font-family: "proxima-nova", sans-serif;
   font-weight: 600;
   margin-right: 40px;
-  line-height: 80px;
+  line-height: 125px;
 }
 #footer .footer-links .last {
   margin-right: 0px;
@@ -724,11 +733,31 @@ div.clear {
 #footer .footer-links a {
   color: #b5b5b5;
 }
+#footer .logo-footer {
+  float: left;
+}
+#footer .logo-footer img {
+  max-width: 125px;
+  padding: 20px 0px 5px 0px;
+}
+#footer .logo-footer p {
+  margin: 0;
+  color: #b5b5b5;
+  font-family: "proxima-nova", sans-serif;
+  font-size: 12px;
+}
+#footer .logo-footer li {
+  display: inline-block;
+  line-height: 30px;
+  margin-right: 12px;
+  color: #b5b5b5;
+  font-weight: 500;
+}
 #footer .social-links {
   float: right;
   display: inline;
   font-size: 20px;
-  margin-top: -52px;
+  margin-top: -78px;
 }
 #footer .social-links i {
   color: #b5b5b5;
@@ -746,6 +775,11 @@ div.clear {
 @media (max-width: 1024px){
   #footer .footer-links li {
     margin-right: 25px;
+  }
+}
+@media (max-width: 992px){
+  #footer .logo-footer {
+    display: none;
   }
 }
 @media (max-width: 768px){

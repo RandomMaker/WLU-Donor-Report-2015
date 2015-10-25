@@ -201,6 +201,16 @@
 		<footer id="footer">
 			<div class="container">
 				<div class="row">
+					<div class="logo-footer">
+						<a href="/"><img src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo" /></a><br />
+						<p>Wilfrid Laurier University</p>
+						<ul class="footer-links">
+							<li>Waterloo</li>
+							<li>Brantford</li>
+							<li>Kitchener</li>
+							<li class="last">Toronto</li>
+						</ul>
+					</div>
 					<div class="footer-menu">
 						<ul class="footer-links">
 							<li><a href="/">HOME</a></li>

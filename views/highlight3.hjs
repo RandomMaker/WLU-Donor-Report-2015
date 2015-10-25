@@ -83,7 +83,7 @@
 						<p>Today, the site of the future Laurier Brantford YMCA Recreation Complex is being prepared for construction. The site surveys, archeological work and shoring up of Colborne Street have brought activity to the project site, and all involved in the project are excitedly anticipating breaking ground.</p>
 						<div class="captioned-image right-image">
 							<img src="images/highlights/highlight3-ymca2.jpg" class="wide-image" alt="YMCA South Rendering"/>
-							<p class="caption">Architect’s rendering of the new Laurier Brantford YMCA</p>
+							<p class="caption">MP Phil McColeman, Mayor Chris Friel, Laurier President Max Blouw, YMCA President Jim Commerford, MPP Dave Levac celebrate construction on the YMCA</p>
 						</div>
 						<p>Fundraising around this project has also gained momentum. To date the Laurier Brantford YMCA has received support from the Government of Canada, the Province of Ontario, the City of Brantford, the Six Nations Elected Council, the Six Nations Polytechnic, the Wilfrid Laurier University Students’ Union and a growing list of private donors. These donors continue to inspire others to donate to the health and vitality of Brantford and Laurier.</p>
 					</div>
@@ -94,6 +94,16 @@
 		<footer id="footer">
 			<div class="container">
 				<div class="row">
+					<div class="logo-footer">
+						<a href="/"><img src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo" /></a><br />
+						<p>Wilfrid Laurier University</p>
+						<ul class="footer-links">
+							<li>Waterloo</li>
+							<li>Brantford</li>
+							<li>Kitchener</li>
+							<li class="last">Toronto</li>
+						</ul>
+					</div>
 					<div class="footer-menu">
 						<ul class="footer-links">
 							<li><a href="/">HOME</a></li>

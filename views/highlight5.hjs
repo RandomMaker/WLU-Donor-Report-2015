@@ -84,7 +84,9 @@
 							<img src="images/highlights/highlight5-lsc2.jpg" class="wide-image" alt="Laurier Society Celebration"/>
 							<p class="caption">Rob Donelson, VP of Development and Alumni Relations (left) and Bridget McMahon, Director of Alumni Relations, Annual Giving, Stewardship and Donor Relations (right ) with Barry Schneider ’65</p>
 						</div>
-						<p>On May 25, 2015, Ian, Hilary and Barry were honoured at the annual Laurier Society Celebration, which pays tribute to the individuals, corporations and foundations that support Laurier in its mission to inspire lives of leadership and purpose. Barry and the McLeans have had an invaluable impact on Laurier’s students, and we thank them for their
+						<p>On May 25, 2015, Ian, Hilary and Barry were honoured at the annual Laurier Society Celebration, which pays tribute to the individuals, corporations and foundations that support Laurier in its mission to inspire lives of leadership and purpose.</p>
+						<p>The Laurier Students’ Union also received special recognition for the extensive support students have provided to their university.</p>
+						<p>Barry, the McLeans, the Students’ Union and all of our donors have had an invaluable impact on Laurier’s students, and we thank them for their outstanding leadership.</p>
 					</div>
 				</div>
 			</div>
@@ -93,6 +95,16 @@
 		<footer id="footer">
 			<div class="container">
 				<div class="row">
+					<div class="logo-footer">
+						<a href="/"><img src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo" /></a><br />
+						<p>Wilfrid Laurier University</p>
+						<ul class="footer-links">
+							<li>Waterloo</li>
+							<li>Brantford</li>
+							<li>Kitchener</li>
+							<li class="last">Toronto</li>
+						</ul>
+					</div>
 					<div class="footer-menu">
 						<ul class="footer-links">
 							<li><a href="/">HOME</a></li>

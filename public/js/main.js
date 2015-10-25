@@ -28,7 +28,7 @@ $('#bcbbsVideo-title, #bcbbsVideo-image').magnificPopup({
 $('#contactMenu, #contactFooter').magnificPopup({
     items: [
       {
-        src: $('<div class="white-popup"><div class="row"><div class="col-md-12"><h2>Contact Us</h2><br/><img src="images/contact-us.jpg"/><p>In this year’s report we celebrate you, our donors, for making it possible for Laurier to continue to inspire lives of leadership and purpose. As our closest friends and supporters, we appreciate hearing from you whenever possible. Please contact us to let us know your thoughts on this year’s report and the impact of your gifts.</p></div></div><br/><div class="clear"></div><div class="row"><div class="col-md-6"><p><span class="bold">Development &amp; Alumni Relations</span><br/>Wilfrid Laurier University<br/>75 University Avenue West<br/>Waterloo, Ontario, Canada<br/>N2L 3C5<br/><br/>Phone: 519.830.9324 x3352<br/>Email: <a href="jperry@wlu.ca">jperry@wlu.ca</a></p></div><div class="col-md-6"><a href="http://www.laurieralumni.ca/alumni/memberprofile" target="_blank"><button class="btn btn-primary contact-button">UPDATE CONTACT INFO</button></a><br/><br/><a href="https://web.wlu.ca/giving/" target="_blank"><button class="btn btn-primary contact-button">MAKE AN ONLINE DONATION</button></a></div></div><br/><div class="clear"></div><div class="row"><div class="col-md-12"><iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Wilfrid%20Laurier%20University%2C%20University%20Avenue%20West%2C%20Waterloo%2C%20ON%2C%20Canada&key=AIzaSyA0de1__dJ_Gi55aIWBDh127hZ86kmKSAI" allowfullscreen></iframe></div></div></div>'),
+        src: $('<div class="white-popup"><div class="row"><div class="col-md-12"><h2>Contact Us</h2><br/><img src="images/contact-us.jpg"/><p>In this year’s report we celebrate you, our donors, for making it possible for Laurier to continue to inspire lives of leadership and purpose. As our closest friends and supporters, we appreciate hearing from you whenever possible. Please contact us to let us know your thoughts on this year’s report and the impact of your gifts.</p></div></div><br/><div class="clear"></div><div class="row"><div class="col-md-6"><p><span class="bold">Development &amp; Alumni Relations</span><br/>Wilfrid Laurier University<br/>75 University Avenue West<br/>Waterloo, Ontario, Canada<br/>N2L 3C5<br/><br/>Phone: 519.830.9324 x3352<br/>Email: <a href="jperry@wlu.ca">jperry@wlu.ca</a></p></div><div class="col-md-6"><a href="http://www.laurieralumni.ca/alumni/memberprofile" target="_blank"><button class="btn btn-primary contact-button">UPDATE CONTACT INFO</button></a><br/><br/><a href="https://web.wlu.ca/giving/" target="_blank"><button class="btn btn-primary contact-button">MAKE AN ONLINE DONATION</button></a></div></div><br/><div class="clear"></div><div class="row"><div class="col-md-12"><iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Wilfrid%20Laurier%20University%2C%20University%20Avenue%20West%2C%20Waterloo%2C%20ON%2C%20Canada&key=AIzaSyCfCgOFreg5F0T3Jtfxwn4lfV5c_ckirp4" allowfullscreen></iframe></div></div></div>'),
         type: 'inline'
       }
     ],
@@ -93,16 +93,16 @@ var $w = $(window).scroll(function(){
 });
 
 /* Homepage Impact Animations */
-$(".impact-story h1").hide();
+$(".impact-story h4").hide();
 $(".impact-story").hover(
     function() {
-        $(this).find('h1').fadeIn(500);
+        $(this).find('h4').fadeIn(500);
         $(this).find('h3').animate({
             "margin-top":"52px"
         });
     }, 
     function () {
-        $(this).find('h1').hide();
+        $(this).find('h4').hide();
         $(this).find('h3').animate({
             "margin-top":"80px"
         });
@@ -121,7 +121,7 @@ var data = [
         value: 1882834,
         color: "#a05eb5",
         highlight: "#89519B",
-        label: "Laurier's Greatest Need"
+        label: "Laurier's Greatest Needs"
     },
     {
         value: 583625,

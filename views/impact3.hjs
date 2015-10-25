@@ -87,7 +87,7 @@
 							<img src="images/impact/impact3-gsalounge2.jpg" class="wide-image" alt="The New GSA Lounge"/>
 							<p class="caption">The new GSA lounge in Brantford</p>
 						</div>
-						<h4 class="spotlight">“They now have a space for them to engage and connect.”</h4>
+						<h4 class="spotlight">“The space already had a kitchenette and they were happy to have that, but they also wanted comfortable seating, open spaces and lockers for their personal items,” says Ellen</h4>
 						<p>“They wanted it to feel loungey,” says Ellen. “The space already had a kitchenette and they were happy to have that, but they also wanted comfortable seating, open spaces and lockers for their personal items.”</p>
 						<p>With overstuffed chairs, a bank of lockers and tables for more formal events, it seems the GSA has delivered on the students’ desires. Ellen concludes, “It’s multi-functional, and designed by the students for the students. They now have a space for them to engage and connect. They are comfortable being themselves in this space... It’s a space where they belong.”</p>
 					</div>
@@ -98,6 +98,16 @@
 		<footer id="footer">
 			<div class="container">
 				<div class="row">
+					<div class="logo-footer">
+						<a href="/"><img src="images/logo/laurier_purple_logo@2x.png" alt="Wilfrid Laurier University Logo" /></a><br />
+						<p>Wilfrid Laurier University</p>
+						<ul class="footer-links">
+							<li>Waterloo</li>
+							<li>Brantford</li>
+							<li>Kitchener</li>
+							<li class="last">Toronto</li>
+						</ul>
+					</div>
 					<div class="footer-menu">
 						<ul class="footer-links">
 							<li><a href="/">HOME</a></li>
