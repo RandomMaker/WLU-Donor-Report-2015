@@ -289,7 +289,7 @@
 									<span class="icon-stroke-gift-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<span>$28,024,594</span><br />
+									<p class="number">$28,024,594</p><br />
 									<p class="disclaimer">* Includes $20-million donation from Mike Lazaridis</p>
 								</div>
 							</div>
@@ -309,7 +309,7 @@
 									<span class="icon-solid-group-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<span>4,008</span><br />
+									<p class="number">4,008</p><br />
 									<p>DONORS</p>
 								</div>
 							</div>
@@ -331,7 +331,7 @@
 									<span class="icon-solid-bucket-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<span>4,424</span><br />
+									<p class="number">4,424</p><br />
 									<p>DONATIONS</p>
 								</div>
 							</div>
@@ -351,7 +351,7 @@
 									<span class="icon-stroke-money-2 wlu-gold numbers-icon"></span>
 								</div>
 								<div class="numbers-info">
-									<span>$2,032</span><br />
+									<p class="number">$2,032</p><br />
 									<p>DOLLARS</p>
 									<p class="disclaimer">* Does not include Mike Lazaridis' $20-million donation</p>
 								</div>
@@ -389,7 +389,7 @@
 							<span class="icon-solid-group-1 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<span>$2,866,635</span><br />
+							<p class="number">$2,866,635</p><br />
 							<p>IN SCHOLARSHIPS, AWARDS <br>AND BURSARIES</p>
 						</div>
 					</div>
@@ -407,7 +407,7 @@
 							<span class="icon-solid-document-2 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<span>$766,207</span><br />
+							<p class="number">$766,207</p><br />
 							<p>DONORS</p>
 						</div>
 					</div>
@@ -425,7 +425,7 @@
 							<span class="icon-stroke-up-3 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<h3>13%</h3><br />
+							<p class="number">13%</p><br />
 						</div>
 					</div>
 				</div>
@@ -442,7 +442,7 @@
 							<span class="icon-school3 wlu-gold numbers-icon"></span>
 						</div>
 						<div class="numbers-info">
-							<span>57%</span><br />
+							<p class="number">57%</p><br />
 							<p>ARE ALUMNI</p>
 						</div>
 					</div>

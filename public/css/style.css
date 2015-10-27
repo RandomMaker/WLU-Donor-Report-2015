@@ -641,16 +641,15 @@ div.clear {
 .numbers-info {
   text-align: center;
 }
-.numbers-info span {
-  margin-top: 10px;
+.numbers-info .number {
   font-size: 36px;
+  font-family: "calluna-sans",sans-serif;
 }
 .numbers-info p {
   font-family: "proxima-nova", sans-serif;
   font-size: 14px;
 }
 .numbers-info .disclaimer {
-  font-family: "proxima-nova", sans-serif;
   font-size: 9px;
   color: #757575;
   display: block;
